@@ -1,0 +1,2180 @@
+NODCCODE,Scientificname,Commonname
+0000000000,No gear set,.
+0000000001,Unreadable Camera Set,.
+0000000002,Bait Lost (No Fish; passive H&L),.
+0000000003,Bait Remain (No Fish; passive H&L),.
+0000000004,No Bait (No Fish; passive H&L),.
+0000000005,Hook Lost (No Fish; passive H&L),.
+0000000006,Gear lost,.
+1111000000,Non-standard work up,.
+3737040300,Stomolophus spp.,Cannonball Jellyfish
+3737040301,Stomolophus meleagris,Cannonball Jellyfish
+5124000000,Anaspidea spp.,Sea Hare
+5509050000,Pectinidae spp.,Scallops
+5509051200,Argopecten spp.,Scallops
+5509051201,Argopecten gibbus,Atlantic Calico Scallop
+5509051202,Argopecten irradians,Bay Scallop
+5509051203,Argopecten nucleus,Nucleus Scallop
+5515470000,Veneridae spp.,.
+5515471100,Mercenaria spp.,.
+5515471101,Mercenaria mercenaria,Northern Quahog
+5515471102,Mercenaria campechiensis,Southern Quahog
+5706010000,Loliginidae spp.,Squid
+5706010100,Loligo spp.,Squid
+5708010200,Octopus spp.,Octopus
+5802010000,Limulidae spp.,.
+5802010100,Limulus spp.,.
+5802010101,Limulus polyphemus,Horseshoe Crab
+6177010000,Penaeidae spp.,Penaeid Shrimps
+6177010100,Farfantepenaeus spp.,Commercial Shrimps
+6177010101,Farfantepenaeus aztecus,Brown Shrimp
+6177010102,Farfantepenaeus duorarum,Pink Shrimp
+6177010103,Litopenaeus setiferus,White Shrimp
+6177010104,Farfantepenaeus brasiliensis,Caribbean Brown Shrimp
+6177010120,Penaeus monodon,Giant Tiger Prawn
+6177010200,Rimapenaeus spp.,.
+6177010201,Rimapenaeus constrictus,Roughneck Shrimp
+6177010202,Rimapenaeus similis,Yellow Roughneck Shrimp
+6177010700,Xiphopenaeus spp.,Seabob
+6177010701,Xiphopenaeus kroyeri,Atlantic Seabob
+6177040000,Sicyoniidae spp.,.
+6177040100,Sicyonia spp.,Rock Shrimp
+6177040101,Sicyonia brevirostris,Rock Shrimp
+6177040102,Sicyonia dorsalis,Lesser Rock Shrimp
+6177040103,Sicyonia typica,Kinglet Rock Shrimp
+6177040104,Sicyonia laevigata,Hardback
+6177040106,Sicyonia stimpsoni,Eyespot Rock Shrimp
+6177040107,Sicyonia parri,.
+6179110000,Palaemonidae spp.,.
+6179110100,Leander spp.,.
+6179110101,Leander tenuicornis,Brown Grass Shrimp
+6179110105,Leander paulensis,Red-algae Shrimp
+6179110200,Macrobrachium spp.,Prawns
+6179110201,Macrobrachium ohione,Ohio Shrimp
+6179110300,Palaemonetes spp.,Grass Shrimp
+6179110301,Palaemonetes intermedius,Brackish Grass Shrimp
+6179110302,Palaemonetes paludosus,Eastern Grass Shrimp
+6179110303,Palaemonetes pugio,Daggerblade Grass Shrimp
+6179110304,Palaemonetes vulgaris,Marsh Grass Shrimp
+6179110400,Periclimenes spp.,.
+6179110401,Periclimenes americanus,American Grass Shrimp
+6179110403,Periclimenes longicaudatus,Longtail Grass Shrimp
+6179110800,Palaemon spp.,.
+6179110803,Palaemon floridanus,Florida Grass Shrimp
+6179111300,Brachycarpus spp.,.
+6179111301,Brachycarpus biunguiculatus,Twoclaw Shrimp
+6179140000,Alpheidae spp.,Snapping Shrimp
+6179150000,Ogyrididae spp.,Longeye Shrimps
+6179150100,Ogyrides spp.,Longeye Shrimps
+6179150101,Ogyrides alphaerostris,Estuarine Longeye Shrimp
+6179160000,Hippolytidae spp.,.
+6179160100,Hippolyte spp.,.
+6179160104,Hippolyte zostericola,Zostera Shrimp
+6179160600,Latreutes spp.,.
+6179160602,Latreutes parvulus,Sargassum Shrimp
+6179161100,Lysmata spp.,.
+6179161101,Lysmata wurdemanni,Peppermint Shrimp
+6179161103,Lysmata rathbunae,Rathbun Cleaner Shrimp
+6179161109,Lysmata amboinensis,Scarlet Cleaner Shrimp
+6179161200,Tozeuma spp.,Arrow Shrimp
+6179161201,Tozeuma carolinense,Arrow Shrimp
+6179161400,Thor spp.,.
+6179161402,Thor manningi,Manning Grass Shrimp
+6179161404,Thor dobkini,Squat Grass Shrimp
+6179170000,Processidae spp.,.
+6179170300,Ambidexter spp.,.
+6179170301,Ambidexter symmetricus,.
+6182010000,Palinuridae spp.,.
+6182010100,Panulirus spp.,.
+6182010101,Panulirus argus,Spiny Lobster
+6182010104,Panulirus guttatus,Spotted Spiny Lobster
+6182010105,Panulirus laevicauda,Smoothtail Spiny Lobster
+6182020000,Scyllaridae spp.,.
+6182020100,Scyllarus spp.,.
+6182020101,Scyllarus depressus,Scaled Slipper Lobster
+6182020102,Scyllarus chacei,Chace Slipper Lobster
+6182020104,Scyllarus americanus,American Slipper Lobster
+6182020105,Scyllarus faxoni,.
+6182020200,Scyllarides spp.,.
+6182020202,Scyllarides nodifer,Ridged Slipper Lobster
+6182020203,Scyllarides aequinoctialis,Spanish Slipper Lobster
+6182020300,Parribacus spp.,.
+6182020301,Parribacus antarcticus,Sculptured Mitten Lobster
+6186020000,Calappidae spp.,Box Crabs
+6186020100,Calappa spp.,.
+6186020101,Calappa flammea,Flame Box Crab
+6186020200,Hepatus spp.,Box Crabs
+6186020201,Hepatus epheliticus,Calico Box Crab
+6187012400,Stenocionops spp.,.
+6.18701E+11,Stenocionops furcatus coelatus,Furcate Spider Crab
+6187012402,Stenocionops spinimanus,Prickly Spider Crab
+6189010000,Portunidae spp.,Swimming Crabs
+6189010100,Arenaeus spp.,.
+6189010101,Arenaeus cribrarius,Speckled Swimming Crab
+6189010300,Callinectes spp.,.
+6189010301,Callinectes sapidus,Blue Crab
+6189010302,Callinectes similis,Lesser Blue Crab
+6189010303,Callinectes danae,Dana Swimming Crab
+6189010304,Callinectes ornatus,Shelligs
+6189010308,Callinectes bocourti,Bocourt Swimming Crab
+6189010309,Callinectes exasperatus,Rugose Swimming Crab
+6189010310,Callinectes larvatus,Masked Swimming Crab
+6189010600,Portunus spp.,Portunus Crabs
+6189010601,Portunus gibbesii,Iridescent Swimming Crab
+6189010604,Portunus spinimanus,Blotched Swimming Crab
+6189011100,Charybdis spp.,.
+6189011101,Charybdis hellerii,Spiny Hands
+6189020000,Xanthidae spp.,Mud Crabs
+6189021300,Menippe spp.,Stone Crab
+6189021301,Menippe mercenaria,Florida Stone Crab
+6189021302,Menippe adina,Gulf Stone Crab
+6189021303,Menippe nodifrons,Cuban Stone Crab
+6189070000,Glyptograpsidae spp.,.
+6189071700,Platychirograpsus spp.,Saber Crab
+6189071701,Platychirograpsus spectabilis,Saber Crab
+6191010000,Squillidae spp.,.
+6191010100,Squilla spp.,Mantis Shrimp
+6191010101,Squilla empusa,Rough Mantis Shrimp
+7815050300,Guavina spp.,Guavinas
+8111060000,Caproidae spp.,Boarfishes
+8155040000,Mellitidae spp.,Sand Dollars
+8500010100,Amphioxus spp.,Lancelet
+8603010300,Petromyzon spp.,.
+8603010301,Petromyzon marinus,Sea Lamprey
+8603010400,Ichthyomyzon spp.,.
+8603010404,Ichthyomyzon gagei,Southern Brook Lamprey
+8705020000,Hexanchidae spp.,Cow Sharks
+8705020100,Hexanchus spp.,.
+8705020101,Hexanchus griseus,Bluntnose Sixgill Shark
+8705020103,Hexanchus nakamurai,Bigeye Sixgill Shark
+8705020300,Heptranchias spp.,.
+8705020301,Heptranchias perlo,Sharpnose Sevengill Shark
+8707000000,Carcharhiniformes spp.,Unidentified Ground Shark Species
+8707010000,Rhincodontidae spp.,whale sharks
+8707010100,Rhincodon spp.,Whale sharks
+8707010101,Rhincodon typus,whale shark
+8707030000,Odontaspididae spp.,.
+8707030200,Carcharias spp.,.
+8707030202,Carcharias taurus,Sand Tiger Shark
+8707040000,Lamnidae spp.,.
+8707040100,Carcharodon spp.,.
+8707040101,Carcharodon carcharias,White Shark
+8707040400,Alopias spp.,.
+8707040401,Alopias vulpinus,Common Thresher Shark
+8707040402,Alopias superciliosus,Bigeye Thresher
+8707040500,Isurus spp.,Mako
+8707040501,Isurus oxyrinchus,Shortfin Mako
+8707040502,Isurus paucus,Longfin Mako
+8707050000,Alopiidae spp.,Thesher Sharks 
+8707100000,Ginglymostomatidae spp.,Nurse Sharks
+8707100100,Ginglymostoma spp.,.
+8707100101,Ginglymostoma cirratum,Nurse Shark
+8707120000,Cetorhinidae spp.,Basking Shark
+8707120100,Cetorhinus spp.,.
+8707120101,Cetorhinus maximus,Basking Shark
+8708010000,Scyliorhinidae spp.,.
+8708010200,Galeus spp.,.
+8708010201,Galeus arae,Marbled Cat Shark
+8708010300,Scyliorhinus spp.,.
+8708010304,Scyliorhinus retifer,Chain Dogfish
+8708020000,Carcharhinidae spp.,.
+8708020200,Galeocerdo spp.,.
+8708020201,Galeocerdo cuvier,Tiger Shark
+8708020300,Rhizoprionodon spp.,.
+8708020301,Rhizoprionodon terraenovae,Atlantic Sharpnose Shark
+8708020303,Rhizoprionodon porosus,Caribbean Sharpnose Shark
+8708020500,Carcharhinus spp.,.
+8708020501,Carcharhinus obscurus,Dusky Shark
+8708020502,Carcharhinus leucas,Bull Shark
+8708020503,Carcharhinus plumbeus,Sandbar Shark
+8708020504,Carcharhinus acronotus,Blacknose Shark
+8708020505,Carcharhinus altimus,Bignose Shark
+8708020506,Carcharhinus falciformis,Silky Shark
+8708020507,Carcharhinus limbatus,Blacktip Shark
+8708020508,Carcharhinus longimanus,Oceanic Whitetip
+8708020511,Carcharhinus perezii,Reef Shark
+8708020512,Carcharhinus porosus,Smalltail Shark
+8708020515,Carcharhinus galapagensis,Galapagos Shark
+8708020530,Carcharhinus brevipinna,Spinner Shark
+8708020531,Carcharhinus isodon,Finetooth Shark
+8708020532,Carcharhinus signatus,Night Shark
+8708020600,Prionace spp.,.
+8708020601,Prionace glauca,Blue Shark
+8708020800,Negaprion spp.,.
+8708020801,Negaprion brevirostris,Lemon Shark
+8708030000,Sphyrnidae spp.,.
+8708030100,Sphyrna spp.,.
+8708030101,Sphyrna tiburo,Bonnethead
+8708030102,Sphyrna zygaena,Smooth Hammerhead
+8708030103,Sphyrna lewini,Scalloped Hammerhead
+8708030104,Sphyrna mokarran,Great Hammerhead
+8708040000,Triakidae spp.,.
+8708040200,Mustelus spp.,.
+8708040201,Mustelus canis,Smooth Dogfish
+8708040203,Mustelus norrisi,Florida Smoothhound
+8708040222,Mustelus sinusmexicanus,Gulf Smoothhound
+8710010000,Squalidae spp.,.
+8710010200,Squalus spp.,.
+8710010201,Squalus acanthias,Spiny Dogfish
+8710010203,Squalus cubensis,Cuban Dogfish
+8710010205,Squalus mitsukurii,Shortspine Dogfish
+8710010300,Centrophorus spp.,.
+8710010301,Centrophorus granulosus,Gulper Shark
+8710010303,Centrophorus uyato,Little Gulper Shark
+8710010400,Dalatias spp.,.
+8710010401,Dalatias licha,Kitefin Shark
+8710010500,Etmopterus spp.,.
+8710010506,Etmopterus virens,Green Lantern Shark
+8710010509,Etmopterus gracilispinis,Broadband Lantern Shark
+8710010600,Isistius spp.,.
+8710010601,Isistius brasiliensis,Cookiecutter Shark
+8710010700,Oxynotus spp.,
+8710010701,Oxynotus caribbaeus,Caribbean roughshark
+8710010900,Centroscyllium spp.,.
+8710010901,Centroscyllium fabricii,Black Dogfish
+8710011200,Centroscymnus spp.,.
+8710011201,Centroscymnus coelolepis,Portugese Shark
+8710011900,Cirrhigaleus spp.,.
+8710011902,Cirrhigaleus asper,Roughskin Dogfish
+8710030000,Echinorhinidae spp.,Bramble Sharks
+8710030100,Echinorhinus spp.,.
+8710030101,Echinorhinus brucus,Bramble Shark
+8710040000,Centrophoridae spp.,Gulper Sharks
+8710050000,Dalatiidae spp.,Sleeper Sharks
+8710060000,Oxynotidae spp.,Rough Sharks
+8710070000,Etmopteridae spp.,Lantern Sharks
+8711010000,Squatinidae spp.,Angel Sharks
+8711010100,Squatina spp.,.
+8711010102,Squatina dumeril,Atlantic Angel Shark
+8711010198,Squatina heteroptera,Disparate Angel Shark
+8711010199,Squatina mexicana,Mexican Angel Shark
+8713010000,Pristidae spp.,.
+8713010100,Pristis spp.,.
+8713010101,Pristis pectinata,Smalltooth Sawfish
+8713010103,Pristis pristis,Largetooth Sawfish
+8713020000,Rhinobatidae spp.,.
+8713020100,Rhinobatos spp.,.
+8713020101,Rhinobatos lentiginosus,Atlantic Guitarfish
+8713030000,Torpedinidae spp.,Torpedo Electric Rays
+8713030100,Torpedo spp.,.
+8713030102,Torpedo nobiliana,Atlantic torpedo
+8713030103,Torpedo andersoni,Florida Torpedo
+8713030200,Benthobatis spp.,.
+8713030201,Benthobatis marcida,Blind Torpedo
+8713040000,Rajidae spp.,.
+8713040100,Raja spp.,.
+8713040113,Raja eglanteria,Clearnose Skate
+8713040117,Raja ackleyi,Ocellate Skate
+8713040124,Leucoraja garmani,Rosette Skate
+8713040126,Leucoraja lentiginosa,Freckled Skate
+8713040127,Dipturus olseni,Spreadfin Skate
+8713040133,Raja texana,Roundel Skate
+8713040160,Dipturus bullisi,Lozenge Skate
+8713040161,Fenestraja sinusmexicanus,Gulf Skate
+8713040200,Anacanthobatis spp.,.
+8713040202,Anacanthobatis longirostris,Longnose Leg Skate
+8713040400,Cruriraja spp.,.
+8713040401,Cruriraja atlantis,Atlantic Legskate
+8713040402,Cruriraja poeyi,Cuban Legskate
+8713040403,Cruriraja rugosa,Rough Leg Skate
+8713040500,Dactylobatus spp.,.
+8713040501,Dactylobatus armatus,Skilletskate
+8713040701,Anacanthobatis folirostris,Leaf-nose Leg Skate
+8713050000,Dasyatidae spp.,.
+8713050100,Dasyatis spp.,Whiptail Stingrays
+8713050103,Dasyatis americana,Southern Stingray
+8713050104,Dasyatis centroura,Roughtail Stingray
+8713050105,Dasyatis sabina,Atlantic Stingray
+8713050106,Dasyatis say,Bluntnose Stingray
+8713050112,Pteroplatytrygon violacea,Pelagic Stingray
+8713050200,Gymnura spp.,.
+8713050201,Gymnura altavela,Spiny Butterfly Ray
+8713050202,Gymnura micrura,Smooth Butterfly Ray
+8713050300,Urobatis spp.,.
+8713050301,Urobatis jamaicensis,Yellow Stingray
+8713070000,Myliobatidae spp.,.
+8713070100,Aetobatus spp.,.
+8713070101,Aetobatus narinari,Spotted Eagle Ray
+8713070200,Myliobatis spp.,.
+8713070201,Myliobatis freminvillii,Bullnose Ray
+8713070203,Myliobatis goodei,Southern Eagle Ray
+8713070300,Rhinoptera spp.,.
+8713070301,Rhinoptera bonasus,Cownose Ray
+8713070302,Rhinoptera brasiliensis,Brazilian Cownose Ray
+8713080000,Mobulidae spp.,.
+8713080100,Manta spp.,.
+8713080101,Manta birostris,Atlantic Manta
+8713080200,Mobula spp.,.
+8713080202,Mobula hypostoma,Devil Ray
+8713120100,Narcine spp.,.
+8713120101,Narcine bancroftii,Lesser Electric Ray
+8713130000,Anacanthobatidae spp.,Smooth Skates
+8713140000,Gymnuridae spp.,Butterfly Rays
+8713154000,Narcinidae spp.,Numbfishes
+8713160000,Urotrygonidae spp.,American Round Stingrays
+8722222222,Unidentified baitfish,Unidentified Baitfish
+8729010000,Acipenseridae spp.,.
+8729010100,Acipenser spp.,.
+8729010104,Acipenser brevirostrum,Shortnose Sturgeon
+8729010105,Acipenser oxyrinchus,Atlantic Sturgeon
+8.72901E+11,Acipenser oxyrinchus oxyrinchus,Atlantic Sturgeon
+8.72901E+11,Acipenser oxyrinchus desotoi,Gulf Sturgeon
+8729020000,Polyodontidae spp.,Paddlefishes
+8729020100,Polyodon spp.,.
+8729020101,Polyodon spathula,Paddlefish
+8732010000,Lepisosteidae spp.,.
+8732010100,Lepisosteus spp.,Gars
+8732010101,Lepisosteus osseus,Longnose Gar
+8732010102,Lepisosteus oculatus,Spotted Gar
+8732010105,Lepisosteus platyrhincus,Florida Gar
+8732010200,Atractosteus spp.,.
+8732010201,Atractosteus spatula,Alligator Gar
+8734010000,Amiidae spp.,.
+8734010100,Amia spp.,.
+8734010101,Amia calva,Bowfin
+8737000000,Elopiformes spp.,Tarpons
+8738010000,Elopidae spp.,.
+8738010100,Elops spp.,.
+8738010101,Elops saurus,Ladyfish
+8738010199,Elops smithi,Malacho
+8738020000,Megalopidae spp.,.
+8738020200,Megalops spp.,.
+8738020201,Megalops atlanticus,Tarpon
+8739010000,Albulidae spp.,.
+8739010100,Albula spp.,.
+8739010101,Albula vulpes,Bonefish
+8739010103,Albula conorhynchus,Lagoon Bonefish
+8739010104,Albula goreensis,Channel Bonefish
+8740000000,Anguilliformes spp.,Eels
+8741010000,Anguillidae spp.,.
+8741010100,Anguilla spp.,.
+8741010101,Anguilla rostrata,American Eel
+8741020100,Moringua spp.,.
+8741020101,Moringua edwardsi,Spaghetti Eel
+8741020200,Neoconger spp.,.
+8741020201,Neoconger mucronatus,Ridged Eel
+8741040000,Chlopsidae spp.,.
+8741040100,Chilorhinus spp.,.
+8741040101,Chilorhinus suensonii,Seagrass Eel
+8741040200,Kaupichthys spp.,.
+8741040201,Kaupichthys hyoproroides,False Moray
+8741040202,Kaupichthys nuchalis,Collared Eel
+8741040500,Chlopsis spp.,.
+8741040501,Chlopsis bicolor,Bicolor Eel
+8741050000,Muraenidae spp.,.
+8741050100,Anarchias spp.,.
+8741050107,Anarchias similis,Pygmy Moray
+8741050200,Echidna spp.,.
+8741050201,Echidna catenata,Chain Moray
+8741050300,Enchelycore spp.,.
+8741050301,Enchelycore nigricans,Viper Moray
+8741050302,Enchelycore carychroa,Chestnut Moray
+8741050400,Gymnothorax spp.,.
+8741050401,Gymnothorax funebris,Green Moray
+8741050403,Gymnothorax moringa,Spotted Moray
+8741050404,Gymnothorax nigromarginatus,Blackedge Moray
+8741050406,Gymnothorax polygonius,Pokygon Moray
+8741050407,Gymnothorax saxicola,Ocellated Moray
+8741050408,Gymnothorax vicinus,Purplemouth Moray
+8741050430,Gymnothorax hubbsi,Lichen Moray
+8741050436,Gymnothorax maderensis,Sharktooth Moray
+8741050446,Gymnothorax kolpos,Blacktail Moray
+8741050448,Gymnothorax miliaris,Goldentail Moray
+8741050500,Muraena spp.,.
+8741050502,Muraena retifera,Reticulate Moray
+8741050504,Muraena robusta,Stout Moray
+8741050700,Uropterygius spp.,.
+8741050715,Uropterygius macularius,Marbled Moray
+8741050901,Enchelycore anatina,Fangtooth Moray
+8741080100,Hoplunnis spp.,.
+8741080101,Hoplunnis diomediana,Blacktail Pikeconger
+8741080102,Hoplunnis macrura,Freckled Pikeconger
+8741080103,Hoplunnis tenuis,Spotted Pikeconger
+8741080200,Nettenchelys spp.,.
+8741080201,Nettenchelys pygmaea,Pygmy Pikeconger
+8741100000,Nettastomatidae spp.,Duckbill Eels
+8741100100,Facciolella spp.,.
+8741100300,Saurenchelys spp.,.
+8741100302,Saurenchelys cognita,Longface Eel
+8741120000,Congridae spp.,.
+8741120100,Conger spp.,.
+8741120101,Conger oceanicus,Conger Eel
+8741120102,Conger triporiceps,Manytooth Conger
+8741120200,Ariosoma spp.,.
+8741120201,Ariosoma balearicum,Bandtooth Conger
+8741120205,Ariosoma anale,Longtrunk Conger
+8741120400,Gnathophis spp.,.
+8741120402,Gnathophis bathytopos,Blackgut Conger
+8741120403,Gnathophis bracheatopos,Longeye Conger
+8741120500,Paraconger spp.,.
+8741120501,Paraconger caudilimbatus,Margintail Conger
+8741120800,Uroconger spp.,.
+8741120801,Uroconger syringinus,Threadtail Conger
+8741120900,Xenomystax spp.,.
+8741120902,Xenomystax congroides,Bristletooth Conger
+8741121000,Rhynchoconger spp.,.
+8741121001,Rhynchoconger flavus,Yellow Conger
+8741121002,Rhynchoconger gracilior,Whiptail Conger
+8741121200,Heteroconger spp.,Garden Eels
+8741121202,Heteroconger longissimus,Brown Garden Eel
+8741121203,Heteroconger luteolus,Yellow Garden Eel
+8741121300,Bathycongrus spp.,.
+8741121301,Bathycongrus bullisi,Bullish Conger
+8741121302,Bathycongrus dubius,Dubious Conger
+8741121303,Bathycongrus vicinalis,Neighbor Conger
+8741130000,Ophichthidae spp.,.
+8741130100,Ahlia spp.,.
+8741130101,Ahlia egmontis,Key Worm Eel
+8741130200,Bascanichthys spp.,.
+8741130201,Bascanichthys scuticaris,Whip Eel
+8741130203,Bascanichthys bascanium,Sooty Eel
+8741130300,Callechelys spp.,.
+8741130301,Callechelys muraena,Blotched Snake Eel
+8741130305,Callechelys springeri,Ridgefin Eel
+8741130307,Callechelys guineensis,Shorttail Snake Eel
+8741130500,Gordiichthys spp.,.
+8741130501,Gordiichthys irretitus,Horsehair Eel
+8741130503,Gordiichthys ergodes,Irksome Eel
+8741130504,Gordiichthys leibyi,String Eel
+8741130600,Letharchus spp.,.
+8741130601,Letharchus velifer,Sailfin Eel
+8741130700,Myrichthys spp.,.
+8741130707,Myrichthys breviceps,Sharptail Eel
+8741130708,Myrichthys ocellatus,Goldspotted Eel
+8741130800,Myrophis spp.,.
+8741130802,Myrophis punctatus,Speckled Worm Eel
+8741131000,Ophichthus spp.,.
+8741131001,Ophichthus gomesii,Shrimp Eel
+8741131002,Ophichthus melanoporus,Blackpored Eel
+8741131004,Ophichthus ophis,Spotted Snake Eel
+8741131009,Ophichthus rex,King Snake Eel
+8741131010,Ophichthus cruentifer,Margined Snake Eel
+8741131013,Ophichthus hyposagmatus,Faintsaddled Snake Eel
+8741131014,Ophichthus omorgmus,Dottedline Snake Eel
+8741131015,Ophichthus puncticeps,Palespotted Eel
+8741131016,Ophichthus menezesi,.
+8741131400,Pseudomyrophis spp.,.
+8741131402,Pseudomyrophis fugesae,Diminutive Worm Eel
+8741131600,Aprognathodon spp.,.
+8741131601,Aprognathodon platyventris,Stripe Eel
+8741131700,Caralophia spp.,.
+8741131701,Caralophia loxochila,Slantlip Eel
+8741132500,Ichthyapus spp.,.
+8741132502,Ichthyapus ophioneus,Surf Eel
+8741132600,Apterichtus spp.,.
+8741132602,Apterichtus ansp,Academy Eel
+8741132603,Apterichtus kendalli,Finless Eel
+8741132800,Ethadophis spp.,.
+8741132803,Ethadophis akkistikos,Indifferent Eel
+8741133100,Echiophis spp.,.
+8741133101,Echiophis intertinctus,Spotted Spoon-nose Eel
+8741133102,Echiophis punctifer,Stippled Spoon-nose Eel
+8741170000,Synaphobranchidae spp.,.
+8741170100,Dysomma spp.,.
+8741170101,Dysomma anguillare,Shortbelly Eel
+8743030000,Notacanthidae spp.,Deep-sea Spiny Eels
+8743030100,Polyacanthonotus spp.,.
+8743030102,Polyacanthonotus rostrata,Smallmouth Spiny Eel
+8743030300,Notacanthus spp.,.
+8743030301,Notacanthus chemnitzii,Snubnosed Spiny Eel
+8747000000,Clupeiformes spp.,Herrings and Anchovies
+8747010000,Clupeidae spp.,Herrings
+8747010100,Alosa spp.,.
+8747010101,Alosa sapidissima,American Shad
+8747010102,Alosa aestivalis,Blueback Herring
+8747010103,Alosa mediocris,Hickory Shad
+8747010104,Alosa alabamae,Alabama Shad
+8747010106,Alosa chrysochloris,Skipjack Herring
+8747010400,Brevoortia spp.,Menhadens
+8747010401,Brevoortia tyrannus,Atlantic Menhaden
+8747010403,Brevoortia patronus,Gulf Menhaden
+8747010404,Brevoortia smithi,Yellowfin Menhaden
+8747010500,Dorosoma spp.,Shad
+8747010501,Dorosoma cepedianum,Gizzard Shad
+8747010502,Dorosoma petenense,Threadfin Shad
+8747010600,Etrumeus spp.,.
+8747010601,Etrumeus teres,Round Herring
+8747010700,Opisthonema spp.,.
+8747010701,Opisthonema oglinum,Atlantic Thread Herring
+8747010800,Harengula spp.,.
+8747010801,Harengula clupeola,False Pilchard
+8747010802,Harengula humeralis,Redear Sardine
+8747010803,Harengula jaguana,Scaled Sardine
+8747010900,Jenkinsia spp.,.
+8747010901,Jenkinsia lamprotaenia,Dwarf Herring
+8747010902,Jenkinsia majua,Little-eye Herring
+8747010903,Jenkinsia stolifera,Shortband Herring
+8747011000,Sardinella spp.,.
+8747011001,Sardinella aurita,Spanish Sardine
+8747020000,Engraulidae spp.,.
+8747020100,Engraulis spp.,.
+8747020103,Engraulis eurystole,Silver Anchovy
+8747020200,Anchoa spp.,Anchovies
+8747020201,Anchoa hepsetus,Striped Anchovy
+8747020202,Anchoa mitchilli,Bay Anchovy
+8747020203,Anchoa cubana,Cuban Anchovy
+8747020204,Anchoa lamprotaenia,Bigeye Anchovy
+8747020205,Anchoa lyolepis,Dusky Anchovy
+8747020209,Anchoa cayorum,Key Anchovy
+8747020300,Anchoviella spp.,.
+8747020304,Anchoviella perfasciata,Flat Anchovy
+8751020000,Notopteridae spp.,Knifefishes
+8751020300,Chitala spp.,Featherbacks
+8751020301,Chitala ornata,Clown Knifefish
+8756010000,Argentinidae spp.,Herring Smelts
+8756010200,Argentina spp.,Argentines
+8756010205,Argentina striata,Striated Argentine
+8756010299,Argentina georgei,Blackbelly Argentine
+8756010300,Glossanodon spp.,.
+8756010302,Glossanodon pygmaeus,Pygmy Argentine
+8758010000,Esocidae spp.,.
+8758010100,Esox spp.,.
+8758010102,Esox americanus,Pickerel
+8758010103,Esox niger,Chain Pickerel
+8758020100,Umbra spp.,.
+8758020101,Umbra pygmaea,Eastern Mudminnow
+8762010100,Aulopus spp.,.
+8762010101,Aulopus filamentosus,Yellowfin Aulopus
+8762020000,Synodontidae spp.,.
+8762020100,Synodus spp.,.
+8762020101,Synodus foetens,Inshore Lizardfish
+8762020102,Synodus intermedius,Sand Diver
+8762020104,Synodus poeyi,Offshore Lizardfish
+8762020105,Synodus saurus,Bluestripe Lizardfish
+8762020106,Synodus synodus,Red Lizardfish
+8762020199,Synodus macrostigmus,Largespot Lizardfish
+8762020300,Saurida spp.,.
+8762020301,Saurida brasiliensis,Largescale Lizardfish
+8762020302,Saurida caribbaea,Smallscale Lizardfish
+8762020303,Saurida normani,Shortjaw Lizardfish
+8762020400,Trachinocephalus spp.,.
+8762020401,Trachinocephalus myops,Snakefish
+8762040100,Chlorophthalmus spp.,.
+8762040101,Chlorophthalmus agassizi,Shortnose Greeneye
+8762040200,Parasudis spp.,.
+8762040201,Parasudis truculenta,Longnose Greeneye
+8762090100,Alepisaurus spp.,.
+8762090102,Alepisaurus ferox,Longnose Lancetfish
+8768010000,Ipnopidae spp.,.
+8768010100,Bathytyphlops spp.,.
+8768010101,Bathytyphlops marionae,Marion's Spiderfish
+8774010000,Characidae spp.,.
+8774011200,Aphyocharax spp.,Tetras
+8774011201,Aphyocharax anasitsi,Bloodfin Tetra
+8774110000,Anostomidae spp.,.
+8776010000,Cyprinidae spp.,Carps and Minnows
+8776010100,Cyprinus spp.,Carps
+8776010101,Cyprinus carpio,Common Carp
+8776010300,Carassius spp.,.
+8776010301,Carassius auratus,Goldfish
+8776010500,Hybognathus spp.,.
+8776010506,Hybognathus hayi,Cypress Minnow
+8776010600,Notemigonus spp.,.
+8776010601,Notemigonus crysoleucas,Golden Shiner
+8776010800,Semotilus spp.,.
+8776010802,Semotilus thoreauianus,Creek Chub
+8776011000,Nocomis spp.,.
+8776011002,Nocomis leptocephalus,Bluehead Chub
+8776011100,Notropis spp.,Notropis Shiners
+8776011104,Notropis chalybaeus,Ironcolor Shiner
+8776011124,Notropis texanus,Weed Shiner
+8776011137,Notropis baileyi,Rough Shiner
+8776011157,Notropis cummingsae,Dusky Shiner
+8776011166,Notropis harperi,Redeye Chub
+8776011176,Notropis longirostris,Longnose Shiner
+8776011178,Notropis maculatus,Taillight Shiner
+8776011185,Notropis petersoni,Coastal Shiner
+8776011200,Hybopsis spp.,.
+8776011220,Hybopsis winchelli,Clear Chub
+8776011600,Pimephales spp.,.
+8776011602,Pimephales promelas,Fathead Minnow
+8776012300,Ctenopharyngodon spp.,.
+8776012301,Ctenopharyngodon idella,Grass Carp
+8776015016,Notropis melanostomus,Blackmouth Shiner
+8776015099,Notropis amplamala,Longjaw Minnow
+8776017600,Cyprinella spp.,Shiners
+8776017605,Cyprinella callitaenia,Bluestripe Shiner
+8776017612,Cyprinella leedsi,Bannerfin Shiner
+8776017621,Cyprinella venusta,Blacktail Shiner
+8776017800,Luxilus spp.,.
+8776017804,Luxilus chrysocephalus,Striped Shiner
+8776017809,Luxilus zonistius,Bandfin Shiner
+8776017900,Lythrurus spp.,.
+8776017902,Lythrurus atrapiculus,Blacktip Shiner
+8776018000,Macrhybopsis spp.,Florida Chub
+8776018200,Opsopoeodus spp.,.
+8776018201,Opsopoeodus emiliae,Pugnose Minnow
+8776018900,Pteronotropis spp.,.
+8776018903,Pteronotropis hypselopterus,Sailfin Shiner
+8776018904,Pteronotropis signipinnis,Flagfin Shiner
+8776018905,Pteronotropis welaka,Bluenose Shiner
+8776018906,Pteronotropis grandipinnis,Apalachee Shiner
+8776018999,Pteronotropis metallicus,Metallic Shiner
+8776040000,Catostomidae spp.,.
+8776040200,Carpiodes spp.,.
+8776040201,Carpiodes cyprinus,Quillback
+8776040203,Carpiodes velifer,Highfin Carpsucker
+8776040300,Erimyzon spp.,.
+8776040301,Erimyzon sucetta,Lake Chubsucker
+8776040303,Erimyzon tenuis,Sharpfin Chubsucker
+8776040399,Erimyzon claviformis,Western Creek Chubsucker
+8776040400,Moxostoma spp.,.
+8776040403,Moxostoma poecilurum,Blacktail Redhorse
+8776040407,Moxostoma carinatum,River Redhorse
+8776040800,Minytrema spp.,Suckers
+8776040801,Minytrema melanops,Spotted Sucker
+8776060100,Misgurnus spp.,.
+8776060101,Misgurnus anguillicaudatus,Oriental Weatherfish
+8777000000,Siluriformes spp.,Catfish
+8777020000,Ictaluridae spp.,Bullhead Catfishes
+8777020100,Ictalurus spp.,.
+8777020102,Ictalurus furcatus,Blue Catfish
+8777020105,Ictalurus punctatus,Channel Catfish
+8777020200,Noturus spp.,.
+8777020201,Noturus gyrinus,Tadpole Madtom
+8777020212,Noturus funebris,Black Madtom
+8777020217,Noturus leptacanthus,Speckled Madtom
+8777020300,Pylodictis spp.,.
+8777020301,Pylodictis olivaris,Flathead Catfish
+8777020600,Ameiurus spp.,Bullheads
+8777020601,Ameiurus brunneus,Snail Bullhead
+8777020602,Ameiurus catus,White Catfish
+8777020604,Ameiurus natalis,Yellow Bullhead
+8777020605,Ameiurus nebulosus,Brown Bullhead
+8777020607,Ameiurus serracanthus,Spotted Bullhead
+8777120000,Clariidae spp.,.
+8777120100,Clarias spp.,.
+8777120101,Clarias batrachus,Walking Catfish
+8777180000,Ariidae spp.,.
+8777180100,Bagre spp.,.
+8777180101,Bagre marinus,Gafftopsail Catfish
+8777180200,Ariopsis spp.,.
+8777180202,Ariopsis felis,Hardhead Catfish
+8777290000,Callichthyidae spp.,.
+8777300000,Loricariidae spp.,Suckermouth Catfish
+8777300100,Hypostomus spp.,.
+8777300101,Hypostomus plecostomus,Suckermouth Catfish
+8777300300,Hoplosternum spp.,.
+8777300301,Hoplosternum littorale,Brown Hoplo
+8777301000,Pterygoplichthys spp.,Armoured Catfishes
+8777301002,Pterygoplichthys multiradiatus,Armoured Catfish
+8777301003,Pterygoplichthys pardalis,Amazon sailfin catfish
+8777302001,Pterygoplichthys disjunctivus,Vermiculated Catfish
+8781010000,Aphredoderidae spp.,.
+8781010100,Aphredoderus spp.,.
+8781010101,Aphredoderus sayanus,Pirate Perch
+8783010000,Batrachoididae spp.,Toadfishes
+8783010100,Porichthys spp.,.
+8783010108,Porichthys plectrodon,Atlantic Midshipman
+8783010200,Opsanus spp.,.
+8783010201,Opsanus tau,Oyster Toadfish
+8783010202,Opsanus beta,Gulf Toadfish
+8.78301E+11,Opsanus beta (red morph),Gulf Toadfish (red morph)
+8.78301E+11,Opsanus beta (yellow morph),Gulf Toadfish (yellow morph)
+8783010203,Opsanus pardus,Leopard Toadfish
+8784010000,Gobiesocidae spp.,.
+8784010100,Gobiesox spp.,.
+8784010102,Gobiesox strumosus,Skilletfish
+8784010105,Gobiesox punctulatus,Stippled Clingfish
+8784010400,Acyrtops spp.,.
+8784010401,Acyrtops beryllinus,Emerald Clingfish
+8786010000,Lophiidae spp.,Goosefishes
+8786010100,Lophius spp.,.
+8786010101,Lophius americanus,Goosefish
+8786010200,Lophiodes spp.,.
+8786010202,Lophiodes reticulatus,Reticulate Goosefish
+8787020000,Antennariidae spp.,.
+8787020100,Histrio spp.,.
+8787020101,Histrio histrio,Sargassumfish
+8787020200,Antennarius spp.,.
+8787020201,Antennarius multiocellatus,Longlure Frogfish
+8787020202,Fowlerichthys ocellatus,Ocellated Frogfish
+8787020203,Fowlerichthys radiosus,Singlespot Frogfish
+8787020208,Antennarius pauciradiatus,Dwarf Frogfish
+8787020234,Antennarius striatus,Splitlure Frogfish
+8787030000,Chaunacidae spp.,Sea Toads
+8787030100,Chaunax spp.,Gapers
+8787030102,Chaunax stigmaeus,Redeye Gaper
+8787040000,Ogcocephalidae spp.,.
+8787040100,Ogcocephalus spp.,Batfishes
+8787040103,Ogcocephalus nasutus,Shortnose Batfish
+8787040105,Ogcocephalus parvus,Roughback Batfish
+8787040106,Ogcocephalus pantostictus,Spotted Batfish
+8787040108,Ogcocephalus declivirostris,Slantbrow Batfish
+8787040109,Ogcocephalus corniger,Longnose Batfish
+8787040110,Ogcocephalus rostellum,Palefin Batfish
+8787040113,Ogcocephalus cubifrons,Polka-dot Batfish
+8787040300,Halieutichthys spp.,.
+8787040301,Halieutichthys aculeatus,Pancake Batfish
+8787040398,Halieutichthys intermedius,Gulf Batfish
+8787040399,Halieutichthys bispinosus,Spiny Batfish
+8787040400,Zalieutes spp.,.
+8787040401,Zalieutes mcgintyi,Tricorn Batfish
+8787040500,Malthopsis spp.,.
+8788030000,Himantolophidae spp.,.
+8788030200,Himantolophus spp.,.
+8788030201,Himantolophus groenlandicus,Atlantic Footballfish
+8788070000,Centrophrynidae spp.,.
+8791010000,Moridae spp.,Morid Cods
+8791010200,Laemonema spp.,.
+8791010201,Laemonema barbatulum,Shortbeard Codling
+8791010300,Physiculus spp.,.
+8791010308,Physiculus fulvus,Metallic Codling
+8791020000,Bregmacerotidae spp.,bregmacerotid codfishes
+8791020100,Bregmaceros spp.,.
+8791020101,Bregmaceros atlanticus,Antenna Codlet
+8791020105,Bregmaceros houdei,Stellate Codlet
+8791031000,Urophycis spp.,.
+8791031002,Urophycis regia,Spotted Hake
+8791031004,Phycis chesteri,Longfin Hake
+8791031005,Urophycis cirrata,Gulf Hake
+8791031006,Urophycis earllii,Carolina Hake
+8791031007,Urophycis floridana,Southern Hake
+8791031099,Urophycis n. sp. (c.f. earlii),Undescribed Hake
+8791031500,Enchelyopus spp.,.
+8791031501,Enchelyopus cimbrius,Fourbeard Rockling
+8791040000,Merlucciidae spp.,Merluccid Hakes
+8791040100,Merluccius spp.,.
+8791040101,Merluccius bilinearis,Silver Hake
+8791040200,Steindachneria spp.,.
+8791040201,Steindachneria argentea,Luminous Hake
+8791050000,Phycidae spp.,Phycid hakes
+8792010000,Ophidiidae spp.,.
+8792010400,Brotula spp.,.
+8792010401,Brotula barbata,Bearded Brotula
+8792010500,Lepophidium spp.,.
+8792010502,Lepophidium brevibarbe,Blackedge Cusk-eel
+8792010505,Lepophidium jeannae,Mottled Cusk-eel
+8792010509,Lepophidium profundorum,Fawn Cusk-eel
+8792010510,Lepophidium staurophor,Barred Cusk-eel
+8792010600,Ophidion spp.,.
+8792010601,Ophidion antipholus,Long Nosed Cusk Eel
+8792010602,Ophidion grayi,Blotched Cusk-eel
+8792010603,Ophidion holbrookii,Bank Cusk-eel
+8792010604,Ophidion selenops,Mooneye Cusk-eel
+8792010605,Ophidion josephi,Crested Cusk-eel
+8792010613,Ophidion marginatum,Striped Cusk-eel
+8792010619,Ophidion dromio,Shorthead Cusk-eel
+8792010700,Otophidium spp.,.
+8792010701,Otophidium omostigma,Polka-dot Cusk-eel
+8792010703,Otophidium dormitator,Sleeper Cusk-eel
+8792011700,Luciobrotula spp.,.
+8792011701,Luciobrotula corethromycter,.
+8792012300,Gunterichthys spp.,.
+8792012301,Gunterichthys longipenis,Gold Brotula
+8792012400,Ogilbia spp.,.
+8792012401,Ogilbia cayorum,Key Brotula
+8792012498,Ogilbia sabaji,Curator Brotula
+8792012499,Ogilbia suarezae,Shy Brotula
+8792012600,Parophidion spp.,.
+8792012601,Parophidion schmidti,Dusky Cusk-eel
+8792012700,Petrotyx spp.,.
+8792012701,Petrotyx sanguineus,Redfin Brotula
+8792012800,Stygnobrotula spp.,.
+8792012801,Stygnobrotula latebricola,Black Brotula
+8792020000,Carapidae spp.,.
+8792020100,Carapus spp.,.
+8792020101,Carapus bermudensis,Pearlfish
+8792020200,Echiodon spp.,.
+8792020204,Echiodon dawsoni,Chain Pearlfish
+8792040000,Bythitidae spp.,.
+8792042500,Grammonus spp.,.
+8792042501,Grammonus claudei,Reef-cave Brotula
+8794010000,Macrouridae spp.,.
+8794010400,Coelorinchus spp.,.
+8794010401,Coelorinchus caribbaeus,Blackfin Grenadier
+8794010405,Coelorinchus caelorhincus,Saddled Grenadier
+8794010600,Malacocephalus spp.,.
+8794010601,Malacocephalus laevis,Softhead Grenadier
+8794010602,Malacocephalus occidentalis,Western Softhead Grenadier
+8794010800,Nezumia spp.,.
+8794010802,Nezumia bairdii,Marlin-spike
+8802000000,Atheriniformes spp.,Silversides
+8803010000,Exocoetidae spp.,.
+8803010100,Cypselurus spp.,.
+8803010102,Cypselurus comatus,Clearwing Flyingfish
+8803010103,Cheilopogon cyanopterus,Margined Flyingfish
+8803010104,Cheilopogon exsiliens,Bandwing Flyingfish
+8803010105,Cheilopogon furcatus,Spotfin Flyingfish
+8803010114,Cheilopogon melanurus,Atlantic Flyingfish
+8803010200,Hemiramphus spp.,.
+8803010201,Hemiramphus brasiliensis,Ballyhoo
+8803010202,Hemiramphus balao,Balao
+8803010300,Hyporhamphus spp.,Halfbeaks
+8803010301,Hyporhamphus unifasciatus,Halfbeak
+8803010399,Hyporhamphus meeki,False Silver Halfbeak
+8803010400,Chriodorus spp.,.
+8803010401,Chriodorus atherinoides,Hardhead Halfbeak
+8803010600,Euleptorhamphus spp.,.
+8803010601,Euleptorhamphus velox,Flying Halfbeak
+8803010700,Exocoetus spp.,.
+8803010701,Exocoetus obtusirostris,Oceanic Two-wing Flyingfish
+8803010702,Exocoetus volitans,Tropical Two-wing Flyingfish
+8803010900,Hirundichthys spp.,.
+8803010901,Hirundichthys affinis,Fourwing Flyingfish
+8803010903,Hirundichthys rondeletii,Blackwing Flyingfish
+8803011000,Oxyporhamphus spp.,.
+8803011001,Oxyporhamphus micropterus,Smallwing Flyingfish
+8803011100,Parexocoetus spp.,.
+8803011101,Parexocoetus brachypterus,Sailfin Flyingfish
+8803011200,Prognichthys spp.,.
+8803011201,Prognichthys occidentalis,Bluntnose Flyingfish
+8803020000,Belonidae spp.,.
+8803020100,Ablennes spp.,.
+8803020101,Ablennes hians,Flat Needlefish
+8803020200,Strongylura spp.,Needlefishes
+8803020201,Strongylura marina,Atlantic Needlefish
+8803020202,Strongylura notata,Redfin Needlefish
+8803020203,Strongylura timucu,Timucu
+8803020300,Tylosurus spp.,.
+8803020301,Tylosurus acus,Agujon
+8803020302,Tylosurus crocodilus,Houndfish
+8803020400,Platybelone spp.,.
+8803020401,Platybelone argalus,Keeltail Needlefish
+8803040000,Hemiramphidae spp.,halfbeaks
+8804040000,Cyprinodontidae spp.,Pupfishes
+8804040100,Cyprinodon spp.,Killifishes
+8804040101,Cyprinodon variegatus,Sheepshead Minnow
+8804040200,Fundulus spp.,Assorted Killifish
+8804040201,Fundulus confluentus,Marsh Killifish
+8804040203,Fundulus heteroclitus,Mummichog
+8804040205,Fundulus majalis,Striped Killifish
+8804040207,Fundulus grandis,Gulf Killifish
+8804040208,Fundulus chrysotus,Golden Topminnow
+8804040209,Fundulus jenkinsi,Saltmarsh Topminnow
+8804040211,Fundulus olivaceus,Blackspotted Topminnow
+8804040212,Fundulus pulvereus,Bayou Killifish
+8804040213,Fundulus similis,Longnose Killifish
+8804040217,Fundulus cingulatus,Banded Topminnow
+8804040218,Fundulus lineolatus,Uined Topminnow
+8804040220,Fundulus nottii,Bayou Topminnow
+8804040223,Fundulus seminolis,Seminole Killifish
+8804040229,Fundulus escambiae,Russetfin Topminnow
+8804040233,Fundulus blairae,Western Starhead Topminnow
+8804040234,Fundulus rubrifrons,Redface Topminnow
+8804040299,Fundulus nottii/escambiae,Fundulus complex
+8804040300,Lucania spp.,.
+8804040301,Lucania parva,Rainwater Killifish
+8804040302,Lucania goodei,Bluefin Killifish
+8804040400,Adinia spp.,.
+8804040401,Adinia xenica,Diamond Killifish
+8804040500,Floridichthys spp.,.
+8804040501,Floridichthys carpio,Goldspotted Killifish
+8804040800,Jordanella spp.,.
+8804040801,Jordanella floridae,Flagfish
+8804040900,Leptolucania spp.,.
+8804040901,Leptolucania ommata,Pygmy Killifish
+8804041000,Rivulus spp.,.
+8804041001,Kryptolebias marmoratus,Mangrove Rivulus
+8804080000,Poeciliidae spp.,.
+8804080100,Gambusia spp.,.
+8804080101,Gambusia affinis,Western Mosquitofish
+8804080102,Gambusia rhizophorae,Mangrove Gambusia
+8804080116,Gambusia holbrooki,Eastern Mosquito Fish
+8804080200,Poecilia spp.,Mollies
+8804080201,Poecilia latipinna,Sailfin Molly
+8804080205,Poecilia reticulata,Guppy
+8804080206,Poecilia sphenops,Mexican Molly
+8804080300,Belonesox spp.,.
+8804080301,Belonesox belizanus,Pike Killifish
+8804080400,Heterandria spp.,.
+8804080401,Heterandria formosa,Least Killifish
+8804080600,Xiphophorus spp.,.
+8804080601,Xiphophorus hellerii,Green Swordtail
+8804080602,Xiphophorus maculatus,Southern Platyfish
+8804080603,Xiphophorus variatus,Variable Platyfish
+8805020000,Atherinidae spp.,Old World Silversides
+8805020200,Membras spp.,.
+8805020201,Membras martinica,Rough Silverside
+8805020300,Menidia spp.,Menidia Silversides
+8805020301,Menidia beryllina,Inland Silverside
+8805020302,Menidia menidia,Atlantic Silverside
+8805020303,Menidia conchorum,Key Silverside
+8805020304,Menidia peninsulae,Tidewater Silverside
+8805020500,Atherinomorus spp.,.
+8805020501,Atherinomorus stipes,Hardhead Silverside
+8805020800,Labidesthes spp.,.
+8805020801,Labidesthes sicculus,Brook Silverside
+8805021200,Hypoatherina spp.,.
+8805021201,Hypoatherina harringtonensis,Reef Silverside
+8805030000,Atherinopsidae spp.,New World Silversides
+8809010000,Polymixiidae spp.,.
+8809010100,Polymixia spp.,.
+8809010101,Polymixia lowei,Beardfish
+8809010102,Polymixia nobilis,Stout Beardfish
+8810050000,Gephyroberyx darwinii,Big Roughy
+8810080000,Holocentridae spp.,.
+8810080100,Holocentrus spp.,.
+8810080101,Holocentrus adscensionis,Squirrelfish
+8810080103,Holocentrus rufus,Longspine Squirrelfish
+8810080105,Neoniphon marianus,Longjaw Squirrelfish
+8810080110,Sargocentron bullisi,Deepwater Squirrelfish
+8810080111,Sargocentron coruscum,Reef Squirrelfish
+8810080112,Sargocentron poco,Saddle Squirrelfish
+8810080113,Sargocentron vexillarium,Dusky Squirrelfish
+8810080200,Myripristis spp.,.
+8810080201,Myripristis jacobus,Blackbar Soldierfish
+8810080300,Ostichthys spp.,.
+8810080301,Ostichthys trachypoma,Bigeye Soldierfish
+8810080400,Plectrypops spp.,.
+8810080401,Plectrypops retrospinis,Cardinal Soldierfish
+8810080600,Corniger spp.,.
+8810080601,Corniger spinosus,Spinycheek Soldierfish
+8810080900,Sargocentron spp.,Squirrelfishes
+8810081000,Neoniphon spp.,Squirrelfishes
+8811020000,Zenionidae spp.,.
+8811020100,Zenion spp.,.
+8811020101,Zenion hololepis,.
+8811030200,Zenopsis spp.,.
+8811030202,Zenopsis conchifera,Buckler Dory
+8811040000,Grammicolepidae spp.,.
+8811040100,Grammicolepis spp.,.
+8811040101,Grammicolepis brachiusculus,Thorny Tinselfish
+8811040200,Xenolepidichthys spp.,.
+8811040202,Xenolepidichthys dalgleishi,Spotted Tinselfish
+8811060100,Antigonia spp.,.
+8811060101,Antigonia capros,Deepbody Boarfish
+8811060102,Antigonia combatia,Shortspine Boarfish
+8813010000,Lampridae spp.,Opahs
+8813010100,Lampris spp.,.
+8813010102,Lampris guttatus,Opah
+8815010000,Lophotidae spp.,Crestfishes
+8815010200,Eumecichthys spp.,.
+8815010201,Eumecichthys fiski,Unicornfish
+8815020000,Trachipteridae spp.,.
+8815020100,Trachipterus spp.,.
+8815020102,Trachipterus arcticus,Dealfish
+8815020200,Desmodema spp.,.
+8815020201,Desmodema polystictum,Polka-dot Ribbonfish
+8815020300,Zu spp.,.
+8815020301,Zu cristatus,Scalloped Ribbonfish
+8815030000,Regalecidae spp.,Oarfishes
+8815030100,Regalecus spp.,.
+8815030101,Regalecus glesne,Oarfish
+8815040100,Lophotus spp.,.
+8815040101,Lophotus lacepede,Crestfish
+8816010000,Stylephoridae spp.,.
+8816010100,Stylephorus spp.,.
+8816010101,Stylephorus chordatus,Tube-eye
+8819010000,Aulostomidae spp.,.
+8819010100,Aulostomus spp.,.
+8819010101,Aulostomus maculatus,Trumpetfish
+8819020000,Fistulariidae spp.,Cornetfishes
+8819020100,Fistularia spp.,.
+8819020101,Fistularia tabacaria,Bluespotted Cornetfish
+8819020102,Fistularia petimba,Red Cornetfish
+8819030100,Macroramphosus spp.,.
+8819030101,Macroramphosus scolopax,Longspine Snipefish
+8819030102,Macroramphosus gracilis,Slender Snipefish
+8819040000,Centriscidae spp.,.
+8820020000,Syngnathidae spp.,.
+8820020100,Syngnathus spp.,Pipefishes
+8820020102,Syngnathus floridae,Dusky Pipefish
+8820020103,Syngnathus fuscus,Northern Pipefish
+8820020104,Syngnathus louisianae,Chain Pipefish
+8820020108,Syngnathus pelagicus,Sargassum Pipefish
+8820020109,Syngnathus springeri,Bull Pipefish
+8820020113,Syngnathus scovelli,Gulf Pipefish
+8820020200,Hippocampus spp.,.
+8820020201,Hippocampus erectus,Lined Seahorse
+8820020204,Hippocampus reidi,Longsnout Seahorse
+8820020205,Hippocampus zosterae,Dwarf Seahorse
+8820020500,Halicampus spp.,.
+8820020501,Halicampus crinitus,Banded Pipefish
+8820020600,Microphis spp.,.
+8820020601,Microphis brachyurus,Opposum Pipefish
+8820022300,Cosmocampus spp.,.
+8820022301,Cosmocampus albirostris,Whitenose Pipefish
+8820022302,Cosmocampus profundus,Deepwater Pipefish
+8820022303,Cosmocampus brachycephalus,Crested Pipefish
+8820022305,Cosmocampus elucens,Shortfin Pipefish
+8820022306,Cosmocampus hildebrandi,Dwarf Pipefish
+8820022500,Acentronura spp.,.
+8820022502,Acentronura dendritica,Pipehorse
+8820023900,Anarchopterus spp.,.
+8820023901,Anarchopterus criniger,Fringed Pipefish
+8820023902,Anarchopterus tectus,Insular Pipefish
+8820024000,Bryx spp.,.
+8820024001,Bryx dunckeri,Pugnose Pipefish
+8821010100,Channa spp.,.
+8821010102,Channa marulius,Bullseye Snakeead
+8824010000,Synbranchidae spp.,Swamp Eels
+8824010200,Monopterus spp.,.
+8824010201,Monopterus albus,Asian Swamp Eel
+8826010000,Scorpaenidae spp.,.
+8826010300,Helicolenus spp.,.
+8826010301,Helicolenus dactylopterus,Blackbelly Rosefish
+8826010400,Neomerinthe spp.,.
+8826010402,Neomerinthe hemingwayi,Spinycheek Scorpionfish
+8826010500,Pontinus spp.,.
+8826010501,Pontinus castor,Longsnout Scorpionfish
+8826010503,Pontinus longispinis,Longspine Scorpionfish
+8826010505,Pontinus rathbuni,Highfin Scorpionfish
+8826010506,Pontinus nematophthalmus,Spinythroat Scorpion
+8826010600,Scorpaena spp.,.
+8826010601,Scorpaena agassizii,Longfin Scorpionfish
+8826010602,Scorpaena albifimbria,Coral Scorpionfish
+8826010603,Scorpaena bergii,Goosehead Scorpionfish
+8826010604,Scorpaena brachyptera,Shortfin Scorpionfish
+8826010605,Scorpaena brasiliensis,Barbfish
+8826010606,Scorpaena calcarata,Smoothhead Scorpionfish
+8826010607,Scorpaena dispar,Hunchback Scorpionfish
+8826010608,Scorpaena elachys,Dwarf Scorpionfish
+8826010609,Scorpaena grandicornis,Plumed Scorpionfish
+8826010610,Scorpaena inermis,Mushroom Scorpionfisf
+8826010611,Scorpaena isthmensis,Smoothcheek Scorpionfish
+8826010614,Scorpaena plumieri,Spotted Scorpionfish
+8826011100,Trachyscorpia spp.,.
+8826011101,Trachyscorpia cristulata,Atlantic Thornyhead
+8826011200,Scorpaenodes spp.,.
+8826011201,Scorpaenodes caribbaeus,Reef Scorpionfish
+8826011202,Scorpaenodes tredecimspinosus,Deepreef Scorpionfish
+8826011400,Pterois spp.,Lionfishes
+8826011401,Pterois volitans,Red Lionfish
+8826012302,Pterois miles,Devil Firefish
+8826020000,Triglidae spp.,Searobins and Gurnards
+8826020100,Prionotus spp.,Searobins
+8826020101,Prionotus carolinus,Northern Searobin
+8826020102,Prionotus evolans,Striped Searobin
+8826020103,Prionotus scitulus,Leopard Searobin
+8826020104,Prionotus tribulus,Bighead Searobin
+8826020105,Prionotus alatus,Spiny Searobin
+8826020111,Prionotus martis,Barred Searobin
+8826020113,Prionotus ophryas,Bandtail Searobin
+8826020117,Prionotus roseus,Bluespotted Searobin
+8826020118,Prionotus rubio,Blackwing searobin
+8826020121,Prionotus stearnsi,Shortwing Searobin
+8826020123,Prionotus longispinosus,Bigeye Searobin
+8826020200,Bellator spp.,Searobin
+8826020201,Bellator brachychir,Shortfin Searobin
+8826020202,Bellator egretta,Streamer Searobin
+8826020203,Bellator militaris,Horned Searobin
+8826020300,Peristedion spp.,Armored Searobins
+8826020303,Peristedion gracile,Slender Searobin
+8826020304,Peristedion greyae,Alligator Searobin
+8826020307,Peristedion miniatum,Armored Searobin
+8826020311,Peristedion thompsoni,Rimspine Searob
+8826020313,Peristedion brevirostre,Flathead Searobin
+8826070000,Hemitripteridae spp.,Sailfin Sculpins
+8831021500,Hemitripterus spp.,.
+8831021503,Hemitripterus americanus,Sea Raven
+8832010000,Dactylopteridae spp.,.
+8832010100,Dactylopterus spp.,.
+8832010101,Dactylopterus volitans,Flying Gurnard
+8835010000,Centropomidae spp.,.
+8835010100,Centropomus spp.,.
+8835010102,Centropomus ensiferus,Swordspine Snook
+8835010103,Centropomus parallelus,Fat Snook
+8835010104,Centropomus pectinatus,Tarpon Snook
+8835010105,Centropomus undecimalis,Common Snook
+8835010199,Centropomus mexicanus,Largescale Fat Snook
+8835020000,Serranidae spp.,Sea Basses
+8835020300,Centropristis spp.,.
+8835020301,Centropristis striata,Black Sea Bass
+8835020302,Centropristis fuscula,Twospot Sea Bass
+8835020304,Centropristis ocyurus,Bank Sea Bass
+8835020305,Centropristis philadelphica,Rock Sea Bass
+8835020400,Epinephelus spp.,.
+8835020401,Epinephelus itajara,Goliath Grouper
+8835020402,Epinephelus adscensionis,Rock Hind
+8835020404,Epinephelus drummondhayi,Speckled Hind
+8835020405,Hyporthodus flavolimbatus,Yellowedge Grouper
+8835020406,Epinephelus guttatus,Red Hind
+8835020408,Epinephelus morio,Red Grouper
+8835020409,Hyporthodus mystacinus,Misty Grouper
+8835020410,Hyporthodus nigritus,Warsaw Grouper
+8835020411,Hyporthodus niveatus,Snowy Grouper
+8835020412,Epinephelus striatus,Nassau Grouper
+8835020438,Cephalopholis fulva,Coney
+8835020440,Dermatolepis inermis,Marbled Grouper
+8835020441,Alphestes afer,Mutton Hamlet
+8835020500,Mycteroperca spp.,.
+8835020501,Mycteroperca microlepis,Gag
+8835020502,Mycteroperca bonaci,Black Grouper
+8835020504,Mycteroperca interstitialis,Yellowmouth Grouper
+8835020505,Mycteroperca phenax,Scamp
+8835020506,Mycteroperca venenosa,Yellowfin Grouper
+8835020509,Mycteroperca tigris,Tiger Grouper
+8835020598,Mycteroperca acutirostris,Comb Grouper
+8835020599,Mycteroperca interstitialis/phenax,Mycteroperca Complex
+8835020600,Hyporthodus spp.,Hyporthodus Groupers
+8835020700,Anthias spp.,.
+8835020702,Anthias nicholsi,Yellowfin Bass
+8835020703,Choranthias tenuis,Threadnose Bass
+8835020800,Alphestes spp.,Hamlets
+8835020900,Dermatolepis spp.,
+8835021000,Diplectrum spp.,.
+8835021002,Diplectrum formosum,Sand Perch
+8835021005,Diplectrum bivittatum,Dwarf Sand Perch
+8835021100,Gonioplectrus spp.,Gonioplectrus spp.
+8835021101,Gonioplectrus hispanus,Spanish Flag
+8835021200,Hemanthias spp.,.
+8835021201,Hemanthias leptus,longtail bass
+8835021202,Baldwinella vivanus,Red Barbier
+8835021204,Baldwinella aureorubens,Streamer Bass
+8835021300,Hypoplectrus spp.,.
+8835021301,Hypoplectrus unicolor,Butter Hamlet
+8835021302,Hypoplectrus aberrans,Yellowbelly Hamlet
+8835021303,Hypoplectrus chlorurus,Yellowtail Hamlet
+8835021304,Hypoplectrus gemma,Blue Hamlet
+8835021305,Hypoplectrus guttavarius,Shy Hamlet
+8835021306,Hypoplectrus indigo,Indigo Hamlet
+8835021307,Hypoplectrus nigricans,Black Hamlet
+8835021308,Hypoplectrus puella,Barred Hamlet
+8835021398,Hypoplectrus floridae,.
+8835021399,Hypoplectrus randallorum,Tan Hamlet
+8835021400,Liopropoma spp.,.
+8835021402,Liopropoma eukrines,Wrasse Basslet
+8835021403,Liopropoma mowbrayi,Cave Basslet
+8835021404,Liopropoma rubre,Peppermint Basslet
+8835021408,Liopropoma carmabi,Candy Basslet
+8835021499,Liopropoma aberrans,Eyestripe Basslet
+8835021700,Paranthias spp.,.
+8835021701,Paranthias furcifer,Creole-fish
+8835022100,Schultzea spp.,.
+8835022101,Schultzea beta,School Bass
+8835022200,Serraniculus spp.,.
+8835022201,Serraniculus pumilio,Pygmy Sea Bass
+8835022300,Serranus spp.,.
+8835022301,Serranus annularis,Orangeback Bass
+8835022302,Serranus atrobranchus,Blackear Bass
+8835022303,Serranus baldwini,Lantern Bass
+8835022304,Serranus chionaraia,Snow Bass
+8835022307,Serranus notospilus,Saddle Bass
+8835022308,Serranus phoebe,Tattler
+8835022309,Serranus subligarius,Belted Sandfish
+8835022310,Serranus tabacarius,Tobaccofish
+8835022311,Serranus tigrinus,Harlequin Bass
+8835022312,Serranus tortugarum,Chalk Bass
+8835022400,Bathyanthias spp.,.
+8835022402,Bathyanthias mexicanus,Yellowtail Bass
+8835022600,Plectranthias spp.,.
+8835022601,Plectranthias garrupellus,Apricot Bass
+8835023400,Pronotogrammus spp.,.
+8835023401,Pronotogrammus martinicensis,Roughtongue Bass
+8835024600,Cephalopholis spp.,.
+8835024611,Cephalopholis cruentata,Graysby
+8835025400,Baldwinella spp.,
+8835025500,Choranthias spp.,
+8835030000,Epinephelidae spp.,Groupers
+8835030200,Rypticus spp.,.
+8835030202,Rypticus bistrispinus,Freckled Soapfish
+8835030204,Rypticus maculatus,Whitespotted Soapfish
+8835030207,Rypticus saponaceus,Greater Soapfish
+8835030208,Rypticus subbifrenatus,Spotted Soapfish
+8835030299,Rypticus carpenteri,Slope Soapfish
+8835030500,Pseudogramma spp.,.
+8835030502,Pseudogramma gregoryi,Reef Bass
+8835040000,Serranidae spp. (serranus complex),Serranus-type Serranids
+8835050000,Serranidae spp. (anthias complex),Anthias-type Serranids
+8835060000,Grammatidae spp.,.
+8835060100,Lipogramma spp.,.
+8835060101,Lipogramma trilineatum,Threeline Basslet
+8835060102,Lipogramma anabantoides,Dusky Basslet
+8835060199,Lipogramma regium,Royal Basslet
+8835160000,Centrarchidae spp.,.
+8835160100,Acantharchus spp.,.
+8835160101,Acantharchus pomotis,Mud Sunfish
+8835160200,Ambloplites spp.,.
+8835160203,Ambloplites ariommus,Shadow Bass
+8835160300,Centrarchus spp.,.
+8835160301,Centrarchus macropterus,Flier
+8835160400,Enneacanthus spp.,.
+8835160401,Enneacanthus chaetodon,Blackbanded Sunfish
+8835160402,Enneacanthus gloriosus,Bluespotted Sunfish
+8835160403,Enneacanthus obesus,Banded Sunfish
+8835160500,Lepomis spp.,Sunfishes
+8835160501,Lepomis auritus,Redbreast Sunfish
+8835160502,Lepomis cyanellus,Green Sunfish
+8835160504,Lepomis macrochirus,Bluegill
+8835160506,Lepomis humilis,Orangespotted Sunfish
+8835160507,Lepomis marginatus,Dollar Sunfish
+8835160508,Lepomis megalotis,Longear Sunfish
+8835160509,Lepomis microlophus,Redear Sunfish
+8835160510,Lepomis punctatus,Spotted Sunfish
+8835160600,Micropterus spp.,.
+8835160602,Micropterus salmoides,Largemouth Bass
+8835160603,Micropterus punctulatus,Spotted Bass
+8835160606,Micropterus notius,Suwannee Bass
+8835160607,Micropterus cataractae ,Shoal Bass
+8835160700,Pomoxis spp.,.
+8835160701,Pomoxis annularis,White Crappie
+8835160702,Pomoxis nigromaculatus,Black Crappie
+8835161001,Lepomis gulosus,Warmouth
+8835161100,Crystallaria spp.,.
+8835161101,Crystallaria asprella,Crystal Darter
+8835170000,Priacanthidae spp.,.
+8835170100,Priacanthus spp.,.
+8835170101,Priacanthus arenatus,Bigeye
+8835170102,Heteropriacanthus cruentatus,Glasseye Snapper
+8835170200,Pristigenys spp.,.
+8835170201,Pristigenys alta,Short Bigeye
+8835170300,Cookeolus spp.,.
+8835170302,Cookeolus japonicus,Bulleye
+8835170400,Heteropriacanthus spp.,Glasseyes
+8835180000,Apogonidae spp.,.
+8835180100,Apogon spp.,.
+8835180101,Apogon affinis,Bigtooth Cardinalfish
+8835180104,Apogon aurolineatus,Bridle Cardinalfish
+8835180105,Apogon binotatus,Barred Cardinalfish
+8835180107,Apogon maculatus,Flamefish
+8835180109,Apogon planifrons,Pale Cardinalfish
+8835180110,Apogon pseudomaculatus,Twospot Cardinalfish
+8835180111,Apogon quadrisquamatus,Sawcheek Cardinalfish
+8835180113,Apogon townsendi,Belted Cardinalfish
+8835180115,Apogon lachneri,Whitestar Cardinalfish
+8835180116,Apogon phenax,Mimic Cardinalfish
+8835180117,Apogon pillionatus,Broadsaddle Cardinalfish
+8835180125,Apogon leptocaulus,Slendertail Cardinalfish
+8835180200,Astrapogon spp.,.
+8835180201,Astrapogon alutus,Bronze Cardinalfish
+8835180202,Astrapogon puncticulatus,Blackfin Cardinalfish
+8835180203,Astrapogon stellatus,Conchfish
+8835180500,Phaeoptyx spp.,.
+8835180501,Phaeoptyx conklini,Freckled Cardinalfis
+8835180502,Phaeoptyx xenus,Sponge Cardinalfish
+8835180503,Phaeoptyx pigmentaria,Dusky Cardinalfish
+8835200000,Percidae spp.,.
+8835200100,Etheostoma spp.,.
+8835200101,Etheostoma fusiforme,Swamp Darter
+8835200102,Etheostoma olmstedi,Tessellated Darter
+8835200128,Etheostoma davisoni,Choctawhatchee Darter
+8835200131,Etheostoma edwini,Brown Darter
+8835200139,Etheostoma histrio,Harlequin Darter
+8835200158,Etheostoma okaloosae,Okaloosa Darter
+8835200162,Etheostoma parvipinne,Goldstripe Darter
+8835200165,Etheostoma proeliare,Cypress Darter
+8835200176,Etheostoma stigmaeum,Speckled Darter
+8835200178,Etheostoma swaini,Gulf Darter
+8835200200,Perca spp.,.
+8835200201,Perca flavescens,Yellow Perch
+8835200300,Percina spp.,.
+8835200319,Percina nigrofasciata,Blackbanded Darter
+8835200333,Percina vigil,Saddleback Darter
+8835200335,Percina austroperca,Southern Logperch
+8835200400,Sander spp.,.
+8835200402,Sander canadense,Sauger
+8835200500,Ammocrypta spp.,.
+8835200503,Ammocrypta bifascia,Florida Sand Darter
+8835200706,Etheostoma colorosum,Coastal Darter
+8835220000,Malacanthidae spp.,.
+8835220100,Caulolatilus spp.,.
+8835220102,Caulolatilus cyanops,Blackline Tilefish
+8835220103,Caulolatilus intermedius,Anchor Tilefish
+8835220104,Caulolatilus microps,Blueline Tilefish
+8835220105,Caulolatilus chrysops,Goldface Tilefish
+8835220200,Lopholatilus spp.,Tilefish
+8835220201,Lopholatilus chamaeleonticeps,Tilefish
+8835220300,Malacanthus spp.,.
+8835220301,Malacanthus plumieri,Sand Tilefish
+8835250000,Pomatomidae spp.,.
+8835250100,Pomatomus spp.,.
+8835250101,Pomatomus saltatrix,Bluefish
+8835250300,Scombrops spp.,.
+8835250302,Scombrops oculatus,Atlantic Scombrops
+8835260000,Rachycentridae spp.,.
+8835260100,Rachycentron spp.,.
+8835260101,Rachycentron canadum,Cobia
+8835270000,Echeneidae spp.,.
+8835270100,Remora spp.,.
+8835270102,Remora osteochir,Marlinsucker
+8835270103,Remora remora,Remora
+8835270104,Remora brachyptera,Spearfish Remora
+8835270200,Echeneis spp.,Sharksuckers
+8835270201,Echeneis naucrates,Sharksucker
+8835270202,Echeneis neucratoides,Whitefin Sharksucker
+8835270300,Phtheirichthys spp.,.
+8835270301,Phtheirichthys lineatus,Slender Suckerfish
+8835270501,Remora albescens,White Suckerfish
+8835280000,Carangidae spp.,Jacks
+8835280100,Trachurus spp.,.
+8835280102,Trachurus lathami,Rough Scad
+8835280200,Alectis spp.,.
+8835280202,Alectis ciliaris,African Pompano
+8835280300,Caranx spp.,.
+8835280301,Caranx bartholomaei,Yellow Jack
+8835280303,Caranx hippos,Crevalle Jack
+8835280304,Caranx latus,Horse-eye Jack
+8835280306,Caranx crysos,Blue Runner
+8835280307,Caranx lugubris,Black Jack
+8835280308,Caranx ruber,Bar Jack
+8835280400,Chloroscombrus spp.,.
+8835280401,Chloroscombrus chrysurus,Atlantic Bumper
+8835280500,Oligoplites spp.,.
+8835280501,Oligoplites saurus,Leatherjacket
+8835280600,Selar spp.,.
+8835280601,Selar crumenophthalmus,Bigeye Scad
+8835280700,Selene spp.,.
+8835280701,Selene vomer,Lookdown
+8835280705,Selene setapinnis,Atlantic Moonfish
+8835280800,Seriola spp.,.
+8835280801,Seriola dumerili,Greater Amberjack
+8835280802,Seriola fasciata,Lesser Amberjack
+8835280803,Seriola rivoliana,Almaco Jack
+8835280804,Seriola zonata,Banded Rudderfish
+8835280900,Trachinotus spp.,.
+8835280901,Trachinotus carolinus,Florida Pompano
+8835280902,Trachinotus falcatus,Permit
+8835280903,Trachinotus goodei,Palometa
+8835281200,Decapterus spp.,.
+8835281201,Decapterus macarellus,Mackerel Scad
+8835281202,Decapterus punctatus,Round Scad
+8835281203,Decapterus tabl,Redtail Scad
+8835281300,Elagatis spp.,.
+8835281301,Elagatis bipinnulata,Rainbow Runner
+8835281400,Hemicaranx spp.,.
+8835281401,Hemicaranx amblyrhynchus,Bluntnose Jack
+8835281500,Naucrates spp.,.
+8835281501,Naucrates ductor,Pilotfish
+8835281700,Uraspis spp.,.
+8835281701,Uraspis secunda,Cottonmouth Jack
+8835289900,Decapterus/Selar/Trachurus spp.,Unidentified Scads
+8835290000,Coryphaenidae spp.,Dolphinfishes
+8835290100,Coryphaena spp.,.
+8835290101,Coryphaena hippurus,Dolphin
+8835290102,Coryphaena equiselis,Pompano Dolphin
+8835350000,Emmelichthyidae spp. ,Rovers
+8835350100,Emmelichthyops spp.,.
+8835350101,Emmelichthyops atlanticus,Bonnetmouth
+8835350200,Inermia spp.,
+8835350201,Haemulon vittatum,Boga
+8835350400,Erythrocles spp.,.
+8835350403,Erythrocles monodi,Crimson Rover
+8835360000,Lutjanidae spp.,.
+8835360100,Lutjanus spp.,.
+8835360101,Lutjanus cyanopterus,Cubera Snapper
+8835360102,Lutjanus griseus,Gray Snapper
+8835360103,Lutjanus analis,Mutton Snapper
+8835360104,Lutjanus apodus,Schoolmaster
+8835360106,Lutjanus buccanella,Blackfin Snapper
+8835360107,Lutjanus campechanus,Red Snapper
+8835360109,Lutjanus jocu,Dog Snapper
+8835360110,Lutjanus mahogoni,Mahogany Snapper
+8835360111,Lutjanus purpureus,Caribbean Red Snapper
+8835360112,Lutjanus synagris,Lane Snapper
+8835360113,Lutjanus vivanus,Silk Snapper
+8835360200,Apsilus spp.,.
+8835360201,Apsilus dentatus,Black Snapper
+8835360300,Etelis spp.,.
+8835360301,Etelis oculatus,Queen Snapper
+8835360400,Ocyurus spp.,.
+8835360401,Ocyurus chrysurus,Yellowtail Snapper
+8835360500,Rhomboplites spp.,.
+8835360501,Rhomboplites aurorubens,Vermilion Snapper
+8835360700,Pristipomoides spp.,.
+8835360701,Pristipomoides aquilonaris,Wenchman
+8835360702,Pristipomoides freemani,Slender Wenchman
+8835380000,Lobotidae spp.,.
+8835380100,Lobotes spp.,.
+8835380101,Lobotes surinamensis,Tripletail
+8835390000,Gerreidae spp.,Mojarras
+8835390100,Eucinostomus spp.,Eucinostomus
+8835390101,Eucinostomus argenteus,Spotfin Mojarra
+8835390102,Eucinostomus gula,Silver Jenny
+8835390104,Eucinostomus lefroyi,Mottled Mojarra
+8835390105,Eucinostomus melanopterus,Flagfin Mojarra
+8835390108,Eucinostomus havana,Bigeye Mojarra
+8835390109,Eucinostomus jonesii,Slender Mojarra
+8835390111,Eucinostomus harengulus,Tidewater Mojarra
+8835390200,Diapterus spp.,.
+8835390202,Diapterus rhombeus,Rhombic Mojarra
+8835390203,Eugerres plumieri,Striped Mojarra
+8835390204,Diapterus auratus,Irish Pompano
+8835390300,Gerres spp.,.
+8835390301,Gerres cinereus,Yellowfin Mojarra
+8835390500,Eugerres spp.,Mojarras
+8835400000,Haemulidae spp.,.
+8835400100,Haemulon spp.,.
+8835400101,Haemulon aurolineatum,Tomtate
+8835400102,Haemulon plumierii,White Grunt
+8835400103,Haemulon album,Margate
+8835400106,Haemulon carbonarium,Caesar Grunt
+8835400107,Haemulon chrysargyreum,Smallmouth Grunt
+8835400108,Haemulon flavolineatum,French Grunt
+8835400110,Haemulon macrostomum,Spanish Grunt
+8835400111,Haemulon melanurum,Cottonwick
+8835400113,Haemulon sciurus,Bluestriped Grunt
+8835400116,Haemulon striatum,Striped Grunt
+8835400117,Haemulon parra,Sailors Choice
+8835400200,Orthopristis spp.,.
+8835400201,Orthopristis chrysoptera,Pigfish
+8835400300,Anisotremus spp.,.
+8835400304,Anisotremus surinamensis,Black Margate
+8835400306,Anisotremus virginicus,Porkfish
+8835400400,Conodon spp.,.
+8835400401,Conodon nobilis,Barred Grunt
+8835400500,Pomadasys spp.,.
+8835400502,Pomadasys crocro,Burro Grunt
+8835430000,Sparidae spp.,.
+8835430100,Stenotomus spp.,.
+8835430101,Stenotomus chrysops,Scup
+8835430102,Stenotomus caprinus,Longspine Porgy
+8835430200,Lagodon spp.,.
+8835430201,Lagodon rhomboides,Pinfish
+8835430300,Archosargus spp.,.
+8835430301,Archosargus probatocephalus,Sheepshead
+8835430302,Archosargus rhomboidalis,Sea Bream
+8835430400,Diplodus spp.,.
+8835430401,Diplodus holbrookii,Spottail Pinfish
+8835430402,Diplodus argenteus,Silver Porgy
+8835430500,Calamus spp.,.
+8835430501,Calamus arctifrons,Grass Porgy
+8835430502,Calamus bajonado,Jolthead Porgy
+8835430503,Calamus calamus,Saucereye Porgy
+8835430505,Calamus leucosteus,Whitebone Porgy
+8835430506,Calamus nodosus,Knobbed Porgy
+8835430507,Calamus pennatula,Pluma Porgy
+8835430508,Calamus proridens,Littlehead Porgy
+8835430510,Calamus penna,Sheepshead Porgy
+8835430598,Calamus calamus/nodosus,Calamus Complex 2
+8835430599,Calamus nodosus/proridens,Calamus Complex 1
+8835430600,Pagrus spp.,.
+8835430601,Pagrus pagrus,Red Porgy
+8835440000,Sciaenidae spp.,Drums
+8835440100,Cynoscion spp.,.
+8835440102,Cynoscion nebulosus,Spotted Seatrout
+8835440103,Cynoscion nothus,Silver Seatrout
+8835440104,Cynoscion regalis,Atlantic Weakfish
+8835440106,Cynoscion arenarius,Sand Seatrout
+8835440199,Cynoscion complex,C. regalis x C. arenarius
+8835440300,Bairdiella spp.,.
+8835440301,Bairdiella chrysoura,Silver Perch
+8835440304,Corvula batabana,Blue Croaker
+8835440305,Corvula sanctaeluciae,Striped Croaker
+8835440400,Leiostomus spp.,.
+8835440401,Leiostomus xanthurus,Spot
+8835440500,Larimus spp.,.
+8835440501,Larimus fasciatus,Banded Drum
+8835440600,Menticirrhus spp.,Kingfishes
+8835440601,Menticirrhus americanus,Southern Kingfish
+8835440602,Menticirrhus littoralis,Gulf Kingfish
+8835440603,Menticirrhus saxatilis,Northern Kingfish
+8835440700,Micropogonias spp.,.
+8835440701,Micropogonias undulatus,Atlantic Croaker
+8835440799,Micropogonias furnieri,Whitemouth Croaker
+8835440800,Pogonias spp.,.
+8835440801,Pogonias cromis,Black Drum
+8835440900,Sciaenops spp.,.
+8835440901,Sciaenops ocellatus,Red Drum
+8835441000,Stellifer spp.,.
+8835441001,Stellifer lanceolatus,Star Drum
+8835441100,Umbrina spp.,.
+8835441101,Umbrina coroides,Sand Drum
+8835441200,Equetus spp.,.
+8835441202,Equetus lanceolatus,Jackknife-fish
+8835441205,Equetus punctatus,Spotted Drum
+8835441300,Odontoscion spp.,.
+8835441301,Odontoscion dentex,Reef Croaker
+8835441400,Pareques spp.,.
+8835441401,Pareques acuminatus,High-hat
+8835441402,Pareques umbrosus,Cubbyu
+8835441403,Pareques iwamotoi,Blackbar Drum
+8835450000,Mullidae spp.,.
+8835450100,Mulloidichthys spp.,.
+8835450101,Mulloidichthys martinicus,Yellow Goatfish
+8835450200,Mullus spp.,.
+8835450201,Mullus auratus,Red Goatfish
+8835450300,Pseudupeneus spp.,Goatfish
+8835450301,Pseudupeneus maculatus,Spotted Goatfish
+8835450400,Upeneus spp.,.
+8835450402,Upeneus parvus,Dwarf Goatfish
+8835470000,Pempheridae spp.,.
+8835470100,Pempheris spp.,.
+8835470101,Pempheris schomburgkii,Glassy Sweeper
+8835510000,Kyphosidae spp.,.
+8835510100,Kyphosus spp.,.
+8835510101,Kyphosus incisor,Yellow Chub
+8835510102,Kyphosus saltatrix,Bermuda Chub
+8835520000,Ephippidae spp.,Spadefishes
+8835520100,Chaetodipterus spp.,.
+8835520101,Chaetodipterus faber,Atlantic Spadefish
+8835550000,Chaetodontidae spp.,.
+8835550100,Chaetodon spp.,.
+8835550101,Chaetodon ocellatus,Spotfin Butterflyfish
+8835550102,Prognathodes aya,Bank Butterflyfish
+8835550103,Chaetodon capistratus,Foureye Butterflyfish
+8835550107,Chaetodon sedentarius,Reef Butterflyfish
+8835550108,Chaetodon striatus,Banded Butterflyfish
+8835550135,Prognathodes aculeatus,Longsnout Butterflyfish
+8835550200,Centropyge spp.,.
+8835550201,Centropyge argi,Cherubfish
+8835550300,Holacanthus spp.,.
+8835550301,Holacanthus ciliaris,Queen Angelfish
+8835550303,Holacanthus tricolor,Rock Beauty
+8835550304,Holacanthus bermudensis,Blue Angelfish
+8835550400,Pomacanthus spp.,.
+8835550401,Pomacanthus arcuatus,Gray Angelfish
+8835550402,Pomacanthus paru,French Angelfish
+8835550404,Pomacanthus imperator,Emperor Angelfish
+8835550500,Prognathodes spp.,.
+8835550501,Prognathodes guyanensis,Guyana Butterflyfish
+8835560000,Pomacanthidae spp.,Angelfishes
+8835580100,Polyprion spp.,Wreckfish
+8835580101,Polyprion americanus,Wreckfish
+8835610000,Cichlidae spp.,Cichlids
+8835610100,Astronotus spp.,.
+8835610101,Astronotus ocellatus,Oscar
+8835610200,Cichlasoma spp.,.
+8835610201,Cichlasoma bimaculatum,Black Acara
+8835610202,Herichthys cyanoguttatus,Rio Grande Cichlid
+8835610203,Amatitlania nigrofasciata,Convict Cichlid
+8835610204,Rocio octofasciata,Jack Dempsey
+8835610207,Parachromis managuensis,Jaguar Guapote
+8835610208,Thorichthys meeki,Firemouth Cichlid
+8835610209,Parachromis salvini,Yellowbelly Cichlid
+8835610221,Cichlasoma urophthalmus,Mayan Cichlid
+8835610224,Amphilophus citrinellus,Midas Cichlid
+8835610300,Hemichromis spp.,.
+8835610301,Hemichromis letourneuxi,Jewelfish
+8835610400,Tilapia spp.,Tilapias
+8835610401,Oreochromis aureus,Blue Tilapia
+8835610402,Tilapia mariae,Spotted Tilapia
+8835610403,Sarotherodon melanotheron,Blackchin Tilapia
+8835610900,Cichla spp.,.
+8835610901,Cichla ocellaris,Butterfly Peacock Bass
+8835610902,Cichla temensis,Speckled Paron
+8835611600,Heros spp.,.
+8835611601,Heros severus,Banded Cichlid
+8835612100,Geophagus spp.,.
+8835612104,Geophagus surinamensis,Redstriped Eartheater
+8835614000,Oreochromis spp.,Blue Tilapias
+8835614001,Oreochromis mossambicus,Mozambique Tilapia
+8835614003,Oreochromis niloticus,Nile Tilapia
+8835614004,Oreochromis complex,Blue and Nile Tilapia complex
+8835614800,Sarotherodon spp.,.
+8835615000,Oreochromis/Sarotherodon spp.,Tilapias
+8835620000,Pomacentridae spp.,Damselfishes
+8835620100,Abudefduf spp.,.
+8835620101,Abudefduf saxatilis,Sergeant Major
+8835620102,Abudefduf taurus,Night Sergeant
+8835620300,Chromis spp.,.
+8835620301,Chromis cyanea,Blue Chromis
+8835620302,Chromis enchrysura,Yellowtail Reeffish
+8835620303,Chromis insolata,Sunshinefish
+8835620305,Chromis multilineata,Brown Chromis
+8835620307,Chromis scotti,Purple Reeffish
+8835620400,Microspathodon spp.,.
+8835620401,Microspathodon chrysurus,Yellowtail Damselfish
+8835621200,Stegastes spp.,.
+8835621202,Stegastes diencaeus,Longfin Damselfish
+8835621229,Stegastes adustus,Dusky Damselfish
+8835621230,Stegastes leucostictus,Beaugregory
+8835621232,Stegastes planifrons,Threespot Damselfish
+8835621233,Stegastes variabilis,Cocoa Damselfish
+8835621234,Stegastes partitus,Bicolor Damselfish
+8835640000,Cirrhitidae spp.,Hawkfishes
+8835640100,Amblycirrhitus spp.,.
+8835640101,Amblycirrhitus pinos,Redspotted Hawkfish
+8835710000,Bramidae spp.,.
+8835710100,Brama spp.,.
+8835710102,Brama brama,Atlantic Pomfret
+8835710103,Brama caribbea,Caribbean Pomfret
+8835710104,Brama dussumieri,Lowfin Pomfret
+8835710300,Pterycombus spp.,.
+8835710301,Pterycombus brama,Atlantic Fanfish
+8835710700,Taractichthys spp.,.
+8835710701,Taractichthys longipinnis,Bigscale Pomfret
+8835740000,Elassomatidae spp.,.
+8835740100,Elassoma spp.,Pygmy Sunfishes
+8835740101,Elassoma evergladei,Everglades Pygmy Sunfish
+8835740102,Elassoma okefenokee,Okefenokee Pygmy Sunfish
+8835740103,Elassoma zonatum,Banded Pygmy Sunfish
+8835740199,Elassoma gilberti,Gulf Coast Pygmy Sunfish
+8835750200,Morone spp.,.
+8835750202,Morone saxatilis,Striped Bass
+8835750203,Morone chrysops x saxatilis,Hybrid
+8835750204,Morone chrysops,White Bass
+8835750205,Morone mississippiensis,Yellow Bass
+8835760000,Ptereleotridae spp.,Dartfishes
+8836010000,Mugilidae spp.,.
+8836010100,Mugil spp.,Mullets
+8836010101,Mugil cephalus,Striped Mullet
+8836010102,Mugil curema,White Mullet
+8836010103,Mugil rubrioculus,Redeye Mullet
+8836010104,Mugil liza,Liza
+8836010105,Mugil trichodon,Fantail Mullet
+8836010400,Agonostomus spp.,.
+8836010401,Agonostomus monticola,Mountain Mullet
+8837010000,Sphyraenidae spp.,.
+8837010100,Sphyraena spp.,.
+8837010102,Sphyraena borealis,Sennet
+8837010103,Sphyraena guachancho,Guaguanche
+8837010104,Sphyraena barracuda,Great Barracuda
+8837020100,Neoepinnula spp.,.
+8837020101,Neoepinnula americana,American Sackfish
+8838010000,Polynemidae spp.,.
+8838010100,Polydactylus spp.,.
+8838010101,Polydactylus octonemus,Atlantic Threadfin
+8838010102,Polydactylus virginicus,Barbu
+8838010104,Polydactylus oligodon,Littlescale Threadfi
+8839010000,Labridae spp. (wrasses),Wrasses
+8839010300,Bodianus spp.,.
+8839010301,Bodianus pulchellus,Spotfin Hogfish
+8839010302,Bodianus rufus,Spanish Hogfish
+8839010400,Clepticus spp.,.
+8839010401,Clepticus parrae,Creole Wrasse
+8839010500,Decodon spp.,.
+8839010501,Decodon puellaris,Red Hogfish
+8839010600,Doratonotus spp.,.
+8839010601,Doratonotus megalepis,Dwarf Wrasse
+8839010700,Halichoeres spp.,.
+8839010701,Halichoeres bathyphilus,Greenband Wrasse
+8839010702,Halichoeres bivittatus,Slippery Dick
+8839010703,Halichoeres caudalis,Painted Wrasse
+8839010704,Halichoeres cyanocephalus,Yellowcheek Wrasse
+8839010705,Halichoeres garnoti,Yellowhead Wrasse
+8839010706,Halichoeres maculipinna,Clown Wrasse
+8839010707,Halichoeres pictus,Rainbow Wrasse
+8839010708,Halichoeres poeyi,Blackear Wrasse
+8839010709,Halichoeres radiatus,Puddingwife
+8839010800,Xyrichtys spp.,.
+8839010801,Xyrichtys martinicensis,Rosy Razorfish
+8839010802,Xyrichtys novacula,Pearly Razorfish
+8839010804,Xyrichtys splendens,Green Razorfish
+8839010900,Lachnolaimus spp.,.
+8839010901,Lachnolaimus maximus,Hogfish
+8839011000,Thalassoma spp.,.
+8839011001,Thalassoma bifasciatum,Bluehead
+8839030000,Labridae spp. (parrotfishes),Parrotfishes
+8839030100,Scarus spp.,.
+8839030101,Scarus coeruleus,Blue Parrotfish
+8839030102,Scarus coelestinus,Midnight Parrotfish
+8839030103,Scarus iseri,Striped Parrotfish
+8839030104,Scarus guacamaia,Rainbow Parrotfish
+8839030105,Scarus taeniopterus,Princess Parrotfish
+8839030106,Scarus vetula,Queen Parrotfish
+8839030200,Cryptotomus spp.,.
+8839030201,Cryptotomus roseus,Bluelip Parrotfish
+8839030300,Nicholsina spp.,.
+8839030301,Nicholsina usta,Emerald Parrotfish
+8839030400,Sparisoma spp.,.
+8839030401,Sparisoma atomarium,Green Blotch Parrotfish
+8839030402,Sparisoma aurofrenatum,Redbanned Parrotfish
+8839030403,Sparisoma chrysopterum,Redtail Parrotfish
+8839030404,Sparisoma radians,Bucktooth Parrotfish
+8839030405,Sparisoma rubripinne,Redfin Parrotfish
+8839030406,Sparisoma viride,Spotlight Parrotfish
+8839040000,Labridae spp. (Unknown),Unknown Wrasse or Parrotfish
+8840020000,Opistognathidae spp.,Jawfishes
+8840020100,Lonchopisthus spp.,.
+8840020103,Lonchopisthus micrognathus,Swordtail Jawfish
+8840020200,Opistognathus spp.,Spotfin Jawfishes
+8840020201,Opistognathus lonchurus,Moustache Jawfish
+8840020202,Opistognathus maxillosus,Mottled Jawfish
+8840020203,Opistognathus aurifrons,Yellowhead Jawfish
+8840020206,Opistognathus macrognathus,Banded Jawfish
+8840020207,Opistognathus whitehursti,Dusky Jawfish
+8840020211,Opistognathus nothus,Yellowmouth Jawfish
+8840020297,Opistognathidae spp. (dark),Jawfishes (dark)
+8840020298,Opistognathidae spp. (light),Jawfishes (light)
+8840020299,Opistognathus robinsi,Spotfin Jawfish
+8840070000,Percophidae spp.,Duckbills
+8840070100,Bembrops spp.,.
+8840070101,Bembrops anatirostris,Duckbill Flathead
+8840070102,Bembrops gobioides,Goby Flathead
+8840130000,Dactyloscopidae spp.,.
+8840130100,Gillellus spp.,.
+8840130101,Gillellus greyae,Arrow Stargazer
+8840130103,Gillellus uranidea,Warteye Stargazer
+8840130104,Gillellus healae,Masked Stargazer
+8840130200,Dactyloscopus spp.,.
+8840130201,Dactyloscopus tridigitatus,Sand Stargazer
+8840130202,Dactyloscopus crossotus,Bigeye Stargazer
+8840130204,Dactyloscopus moorei,Speckled Stargazer
+8840130205,Dactyloscopus foraminosus,Reticulate Stargazer
+8840130500,Platygillellus spp.,.
+8840130501,Platygillellus rubrocinctus,Saddle Stargazer
+8840140000,Uranoscopidae spp.,Stargazers
+8840140100,Astroscopus spp.,.
+8840140102,Astroscopus y-graecum,Southern Stargazer
+8840140200,Xenocephalus spp.,.
+8840140201,Xenocephalus egregius,Freckled Stargazer
+8840140300,Kathetostoma spp.,.
+8840140301,Kathetostoma albigutta,Lancer Stargazer
+8842010000,Blenniidae spp.,Combtooth Blennies
+8842010200,Hypsoblennius spp.,.
+8842010201,Hypsoblennius hentz,Feather Blenny
+8842010202,Hypsoblennius ionthas,Freckled Blenny
+8842010300,Chasmodes spp.,.
+8842010301,Chasmodes bosquianus,Striped Blenny
+8842010302,Chasmodes saburrae,Florida Blenny
+8842010303,Chasmodes longimaxilla,Stretchjaw Blenny
+8842010400,Entomacrodus spp.,.
+8842010401,Entomacrodus nigricans,Pearl Blenny
+8842010500,Hypleurochilus spp.,.
+8842010501,Hypleurochilus geminatus,Crested Blenny
+8842010502,Hypleurochilus pseudoaequipinnis,Oyster Blenny
+8842010503,Hypleurochilus bermudensis,Barred Blenny
+8842010504,Hypleurochilus springeri,Orangespotted Blenny
+8842010598,Hypleurochilus caudovittatus,Zebratail Blenny
+8842010599,Hypeurochilus multifilis,Plumed Blenny
+8842010600,Ophioblennius spp.,.
+8842010601,Ophioblennius macclurei,Redlip Blenny
+8842011400,Lupinoblennius spp.,.
+8842011401,Lupinoblennius vinctus,Mangrove Blenny
+8842011402,Lupinoblennius nicholsi,Highfin Blenny
+8842012500,Parablennius spp.,.
+8842012501,Parablennius marmoreus,Seaweed Blenny
+8842012600,Scartella spp.,.
+8842012601,Scartella cristata,Molly Miller
+8842080000,Tripterygiidae spp.,Triplefin Blennies
+8842080100,Enneanectes spp.,.
+8842080101,Enneanectes altivelis,Lofty Triplefin
+8842080102,Enneanectes boehlkei,Roughhead Triplefin
+8842080103,Enneanectes pectoralis,Redeye Triplefin
+8842090000,Labrisomidae spp.,.
+8842090200,Emblemaria spp.,.
+8842090201,Emblemaria atlantica,Banner Blenny
+8842090202,Emblemaria pandionis,Sailfin Blenny
+8842090203,Emblemaria piratula,Pirate Blenny
+8842090300,Labrisomus spp.,.
+8842090301,Labrisomus bucciferus,Puffcheek Blenny
+8842090303,Labrisomus gobio,Palehead Blenny
+8842090304,Labrisomus guppyi,Mimic Blenny
+8842090305,Labrisomus haitiensis,Longfin Blenny
+8842090306,Labrisomus nigricinctus,Spotcheek Blenny
+8842090307,Labrisomus nuchipinnis,Hairy Blenny
+8842090308,Labrisomus kalisherae,Downy Blenny
+8842090400,Malacoctenus spp.,.
+8842090401,Malacoctenus aurolineatus,Goldline Blenny
+8842090403,Malacoctenus macropus,Rosy Blenny
+8842090404,Malacoctenus triangulatus,Saddled Blenny
+8842090500,Paraclinus spp.,.
+8842090501,Paraclinus grandicomis,Horned Blenny
+8842090502,Paraclinus cingulatus,Coral Blenny
+8842090503,Paraclinus fasciatus,Banded Blenny
+8842090504,Paraclinus infrons,Bald Blenny
+8842090506,Paraclinus marmoratus,Marbled Blenny
+8842090507,Paraclinus nigripinnis,Blackfin Blenny
+8842090600,Starksia spp.,.
+8842090602,Starksia ocellata,Checkered Blenny
+8842090603,Starksia starcki,Key Blenny
+8842090700,Stathmonotus spp.,.
+8842090701,Stathmonotus hemphillii,Blackbelly Blenny
+8842090702,Stathmonotus stahli,Southern Eelgrass Blenny
+8842090799,Stathmonotus tekla,Eelgrass Blenny
+8842090800,Acanthemblemaria spp.,.
+8842090801,Acanthemblemaria aspera,Roughhead Blenny
+8842090803,Acanthemblemaria chaplini,Papillose Blenny
+8842091000,Chaenopsis spp.,.
+8842091002,Chaenopsis ocellata,Bluethroat Pikeblenny
+8842091003,Chaenopsis limbaughi,Yellowface Pikeblenny
+8842091004,Chaenopsis roseola,Flecked Pikeblenny
+8842091200,Hemiemblemaria spp.,.
+8842091201,Hemiemblemaria simula,Wrasse Blenny
+8842091500,Nemaclinus spp.,.
+8842091501,Nemaclinus atelestos,Threadfin Blenny
+8842093100,Emblemariopsis spp.,.
+8842093101,Emblemariopsis bahamensis,Blackhead Blenny
+8842093102,Emblemariopsis diaphana,Glass Blenny
+8842100000,Chaenopsidae spp.,Tube Blennies
+8842100100,Protemblemaria spp.,Flag Blennies
+8842100101,Protemblemaria punctata,Chameleon Blenny
+8846010000,Callionymidae spp.,Dragonets
+8846010700,Diplogrammus spp.,.
+8846010702,Diplogrammus pauciradiatus,Spotted Dragonet
+8846010800,Foetorepus spp.,.
+8846010801,Foetorepus agassizii,Spotfin Dragonet
+8846010802,Foetorepus goodenbeani,Palefin Dragonet
+8846010900,Paradiplogrammus spp.,.
+8846010901,Paradiplogrammus bairdi,Lancer Dragonet
+8847010000,Gobiidae spp.,Gobies
+8847010200,Coryphopterus spp.,.
+8847010202,Coryphopterus alloides,Barfin Goby
+8847010203,Coryphopterus dicrus,Colon Goby
+8847010204,Coryphopterus eidolon,Pallid Goby
+8847010205,Coryphopterus glaucofraenum,Bridled Goby
+8847010206,Coryphopterus hyalinus,Glass Goby
+8847010207,Coryphopterus lipernes,Peppermint Goby
+8847010208,Coryphopterus personatus,Masked Goby
+8847010209,Coryphopterus punctipectophorus,Spotted Goby
+8847010210,Coryphopterus thrix,Bartail Goby
+8847010211,Coryphopterus tortugae,Sand Goby
+8847010299,Coryphopterus kuna,Kuna Goby
+8847010400,Evorthodus spp.,.
+8847010401,Evorthodus lyricus,Lyre Goby
+8847010500,Gobionellus spp.,.
+8847010501,Ctenogobius boleosoma,Darter Goby
+8847010503,Gobionellus oceanicus,Highfin Goby
+8847010504,Ctenogobius shufeldti,Freshwater Goby
+8847010505,Oxyurichthys stigmalophius,Spotfin Goby
+8847010506,Ctenogobius stigmaticus,Marked Goby
+8847010507,Ctenogobius stigmaturus,Spottail Goby
+8847010510,Ctenogobius saepepallens,Dash Goby
+8847010511,Ctenogobius smaragdus,Emerald Goby
+8847010513,Ctenogobius pseudofasciatus,Slashcheek Goby
+8847010600,Gobiosoma spp.,Gobiosoma Gobies
+8847010601,Gobiosoma bosc,Naked Goby
+8847010602,Gobiosoma ginsburgi,Seaboard Goby
+8847010603,Gobiosoma robustum,Code Goby
+8847010604,Gobiosoma grosvenori,Rockcut Goby
+8847010606,Gobiosoma longipala,Twoscale Goby
+8847010607,Elacatinus macrodon,Tiger Goby
+8847010608,Elacatinus oceanops,Neon Goby
+8847010609,Elacatinus xanthiprora,Yellowprow Goby
+8847010700,Microgobius spp.,.
+8847010701,Microgobius gulosus,Clown Goby
+8847010702,Microgobius thalassinus,Green Goby
+8847010703,Microgobius carri,Seminole Goby
+8847010704,Microgobius microlepis,Banner Goby
+8847010800,Barbulifer spp.,.
+8847010801,Barbulifer ceuthoecus,Bearded Goby
+8847010900,Bathygobius spp.,.
+8847010901,Bathygobius curacao,Notchtongue Goby
+8847010902,Bathygobius mystacium,Island Frillfin
+8847010903,Bathygobius soporator,Frillfin Goby
+8847010997,Bathygobius lacertus,Checkerboard Frillfin
+8847010998,Bathygobius geminatus,Twinspotted Frillfin
+8847010999,Bathygobius antilliensis,Antillies Frillfin
+8847011000,Evermannichthys spp.,.
+8847011002,Evermannichthys spongicola,Sponge Goby
+8847011100,Gnatholepis spp.,.
+8847011101,Gnatholepis thompsoni,Goldspot Goby
+8847011200,Gobioides spp.,.
+8847011201,Gobioides broussonetii,Violet Goby
+8847011400,Ptereleotris spp.,Dartfishes
+8847011401,Ptereleotris calliura,Blue Dartfish
+8847011500,Risor spp.,.
+8847011501,Risor ruber,Tusked Goby
+8847011600,Bollmannia spp.,.
+8847011601,Bollmannia communis,Ragged Goby
+8847011602,Bollmannia boqueronensis,White-eye Goby
+8847011603,Bollmannia eigenmanni,Shelf Goby
+8847011700,Chriolepis spp.,.
+8847011703,Chriolepis vespa,Wasp Goby
+8847011800,Erotelis spp.,.
+8847011801,Erotelis smaragdus,Emerald Sleeper
+8847012100,Awaous spp.,.
+8847012104,Awaous banana,River Goby
+8847012200,Gobulus spp.,.
+8847012201,Gobulus myersi,Paleback Goby
+8847012500,Lophogobius spp.,.
+8847012501,Lophogobius cyprinoides,Crested Goby
+8847012600,Lythrypnus spp.,.
+8847012602,Lythrypnus nesiotes,Island Goby
+8847012603,Lythrypnus phorellus,Convict Goby
+8847012604,Lythrypnus spilus,Bluegold Goby
+8847012606,Lythrypnus elasson,Dwarf Goby
+8847012700,Nes spp.,.
+8847012701,Nes longus,Orange Spotted Goby
+8847012900,Elacatinus spp.,Neon Gobies
+8847013300,Dormitator spp.,.
+8847013302,Dormitator maculatus,Fat Sleeper
+8847013303,Guavina guavina,Guavina
+8847013400,Gobiomorus spp.,.
+8847013401,Gobiomorus dormitor,Bigmouth Sleeper
+8847013600,Ctenogobius spp.,.
+8847013603,Ctenogobius fasciatus,Blotchcheek Goby
+8847013700,Eleotris spp.,.
+8847013708,Eleotris amblyopsis,Largescaled Spinycheek Sleeper
+8847013709,Eleotris perniger,Smallscaled Spinycheek Sleeper
+8847014304,Ptereleotris helenae,Hovering Dartfish
+8847014800,Palatogobius spp.,.
+8847014801,Palatogobius paradoxus,Mauve Goby
+8847040100,Varicus spp.,.
+8847040102,Varicus marilynae,Orangebelly Goby
+8847060000,Microdesmidae spp.,Wormfishes
+8847060100,Microdesmus spp.,.
+8847060102,Microdesmus lanceolatus,Lancetail Wormfish
+8847060103,Microdesmus longipinnis,Pink Wormfish
+8847060300,Cerdale spp.,.
+8847060301,Cerdale floridana,Pugjaw Wormfish
+8847070000,Eleotridae spp.,Sleepers
+8847082700,Priolepis spp.,.
+8847082701,Priolepis hipoliti,Rusty Goby
+8849010000,Acanthuridae spp.,Surgeonfishes
+8849010100,Acanthurus spp.,.
+8849010101,Acanthurus bahianus,ocean surgeon
+8849010102,Acanthurus chirurgus,Doctorfish
+8849010103,Acanthurus coeruleus,Blue Tang
+8849010199,Acanthurus tractus,Ocean Surgeon
+8850010000,Gempylidae spp.,Snake Mackerels
+8850010200,Gempylus spp.,.
+8850010201,Gempylus serpens,Snake Mackerel
+8850010300,Lepidocybium spp.,.
+8850010301,Lepidocybium flavobrunneum,Escolar
+8850010400,Ruvettus spp.,.
+8850010401,Ruvettus pretiosus,Oilfish
+8850010700,Nesiarchus spp.,.
+8850010701,Nesiarchus nasutus,Black Gemfish
+8850011000,Diplospinus spp.,.
+8850011001,Diplospinus multistriatus,Striped Escolar
+8850020000,Trichiuridae spp.,.
+8850020200,Trichiurus spp.,.
+8850020201,Trichiurus lepturus,Atlantic Cutlassfish
+8850020500,Evoxymetopon spp.,.
+8850020501,Evoxymetopon taeniatus,Channel Scabbardfish
+8850030000,Scombridae spp.,.
+8850030100,Euthynnus spp.,.
+8850030101,Katsuwonus pelamis,Skipjack Tuna
+8850030102,Euthynnus alletteratus,Little Tunny
+8850030200,Sarda spp.,.
+8850030202,Sarda sarda,Atlantic Bonito
+8850030300,Scomber spp.,.
+8850030301,Scomber colias,Chub Mackerel
+8850030400,Thunnus spp.,.
+8850030401,Thunnus alalunga,Albacore
+8850030402,Thunnus thynnus,Bluefin Tuna
+8850030403,Thunnus albacares,Yellowfin Tuna
+8850030404,Thunnus atlanticus,Blackfin Tuna
+8850030405,Thunnus obesus,Bigeye Tuna
+8850030500,Scomberomorus spp.,.
+8850030501,Scomberomorus cavalla,King Mackerel
+8850030502,Scomberomorus maculatus,Spanish Mackerel
+8850030503,Scomberomorus regalis,Cero
+8850030600,Acanthocybium spp.,.
+8850030601,Acanthocybium solandri,Wahoo
+8850030700,Auxis spp.,.
+8850030701,Auxis rochei,Bullet Mackerel
+8850030702,Auxis thazard,Frigate Mackerel
+8850031600,Katsuwonus spp.,Skipjack Tunas
+8850038000,Scombridae spp. (mackerels),Scombridae spp. (mackerels)
+8850039000,Scombridae spp. (tunas),Scombridae spp. (tunas)
+8850040000,Xiphiidae spp.,Swordfishes
+8850040100,Xiphias spp.,Swordfishes
+8850040101,Xiphias gladius,Swordfish
+8850050000,Luvaridae spp.,Louvars
+8850050100,Luvarus spp.,.
+8850050101,Luvarus imperialis,Louvar
+8850060000,Istiophoridae spp.,.
+8850060100,Istiophorus spp.,.
+8850060101,Istiophorus platypterus,Sailfish
+8850060200,Makaira spp.,.
+8850060201,Makaira nigricans,Blue Marlin
+8850060300,Tetrapturus spp.,.
+8850060301,Kajikia albida,White Marlin
+8850060304,Tetrapturus pfluegeri,Longbill Spearfish
+8850060305,Tetrapturus angustirostris,Shortbill Spearfish
+8850070000,Scombropidae spp.,Gnomefishes
+8851010000,Centrolophidae spp.,Medusafishes
+8851010100,Schedophilus spp.,.
+8851010101,Schedophilus pemarco,Pemarco Blackfish
+8851010200,Hyperoglyphe spp.,.
+8851010201,Hyperoglyphe perciformis,Barrelfish
+8851010202,Hyperoglyphe bythites,Black Driftfish
+8851020000,Nomeidae spp.,Driftfishes
+8851020100,Ariomma spp.,.
+8851020101,Ariomma bondi,Silver-rag
+8851020102,Ariomma melanum,Brown Driftfish
+8851020104,Ariomma regulus,Spotted Driftfish
+8851020200,Cubiceps spp.,.
+8851020202,Cubiceps pauciradiatus,Bigeye Cigarfish
+8851020300,Nomeus spp.,.
+8851020301,Nomeus gronovii,Man-of-war Fish
+8851020400,Psenes spp.,.
+8851020401,Psenes cyanophrys,Freckled Driftfish
+8851020402,Psenes maculatus,Silver Driftfish
+8851020403,Psenes pellucidus,Bluefin Driftfish
+8851030000,Stromateidae spp.,Butterfishes
+8851030100,Peprilus spp.,.
+8851030103,Peprilus triacanthus,Butterfish
+8851030104,Peprilus burti,Gulf Butterfish
+8851030106,Peprilus paru,Harvestfish
+8851040000,Tetragonuridae spp.,Squaretails
+8851040100,Tetragonurus spp.,.
+8851040102,Tetragonurus atlanticus,Bigeye Squaretail
+8851050000,Ariommatidae spp.,Ariommatids
+8852010000,Anabantidae spp.,Climbing Gouramies
+8852020100,Betta spp.,.
+8852020101,Betta splendens,Siamese Fighting Fish
+8852020400,Macropodus spp.,.
+8852020401,Macropodus opercularis,Paradise Fish
+8852021000,Trichopsis spp.,.
+8852021003,Trichopsis vittata,Croaking Gourami
+8852040000,Osphronemidae spp.,Gouramies
+8854010000,Mastacembelidae spp.,Freshwater Spiny Eels
+8854010100,Macrognathus spp.,.
+8854010102,Macrognathus siamensis,Spotfin Spiny Eel
+8855000000,Pleuronectiformes spp.,Flounders
+8857020000,Scophthalmidae spp.,Turbots
+8857030000,Bothidae spp.,Lefteye flounders
+8857030100,Citharichthys spp.,.
+8857030104,Citharichthys arctifrons,Gulf Stream Flounder
+8857030105,Citharichthys arenaceus,Sand Whiff
+8857030106,Citharichthys cornutus,Horned Whiff
+8857030107,Citharichthys dinoceros,Spined Whiff
+8857030108,Citharichthys gymnorhinus,Anglefin Whiff
+8857030109,Citharichthys macrops,Spotted Whiff
+8857030110,Citharichthys spilopterus,Bay Whiff
+8857030200,Etropus spp.,.
+8857030201,Etropus crossotus,Fringed Flounder
+8857030202,Etropus microstomus,Smallmouth Flounder
+8857030204,Etropus rimosus,Gray Flounder
+8857030205,Etropus cyclosquamus,Shelf Flounder
+8857030300,Paralichthys spp.,.
+8857030301,Paralichthys dentatus,Summer Flounder
+8857030302,Paralichthys albigutta,Gulf Flounder
+8857030304,Paralichthys lethostigma,Southern Flounder
+8857030305,Paralichthys oblongus,Fourspot Flounder
+8857030306,Paralichthys squamilentus,Broad Flounder
+8857030400,Scophthalmus spp.,.
+8857030401,Scophthalmus aquosus,Windowpane
+8857030500,Ancylopsetta spp.,.
+8857030503,Ancylopsetta dilecta,Three-eye Flounder
+8857030506,Ancylopsetta quadrocellata,Ocellated Flounder
+8857030600,Bothus spp.,.
+8857030601,Bothus lunatus,Peacock Flounder
+8857030603,Bothus ocellatus,Eyed Flounder
+8857030604,Bothus robinsi,Twospot Flounder
+8857030700,Chascanopsetta spp.,.
+8857030701,Chascanopsetta lugubris,Pelican Flounder
+8857030800,Cyclopsetta spp.,.
+8857030801,Cyclopsetta chittendeni,Mexican Flounder
+8857030802,Cyclopsetta fimbriata,Spotfin Flounder
+8857030900,Engyophrys spp.,.
+8857030901,Engyophrys senta,Spiny Flounder
+8857031000,Gastropsetta spp.,.
+8857031001,Gastropsetta frontalis,Shrimp Flounder
+8857031200,Monolene spp.,.
+8857031201,Monolene antillarum,Slim Flounder
+8857031204,Monolene sessilicauda,Deepwater Flounder
+8857031300,Syacium spp.,.
+8857031301,Syacium gunteri,Shoal Flounder
+8857031302,Syacium micrurum,Channel Flounder
+8857031303,Syacium papillosum,Dusky Flounder
+8857031400,Trichopsetta spp.,.
+8857031404,Trichopsetta ventralis,Sash Flounder
+8857040000,Pleuronectidae spp.,Righteye Flounders
+8857050000,Paralichthyidae spp.,Sand Flounders
+8858010000,Achiridae spp.,American Soles
+8858020000,Cynoglossidae spp.,Tonguefishes
+8858020100,Symphurus spp.,Tonguefishes
+8858020101,Symphurus plagiusa,Blackcheek Tonguefish
+8858020102,Symphurus civitatium,Offshore Tonguefish
+8858020103,Symphurus diomedeanus,Spottedfin Tonguefish
+8858020104,Symphurus marginatus,Margined Tonguefish
+8858020105,Symphurus minor,Largescale Tonguefish
+8858020106,Symphurus parvus,Pygmy Tonguefish
+8858020107,Symphurus piger,Deepwater Tonguefish
+8858020110,Symphurus urospilus,Spottail Tonguefish
+8858020113,Symphurus arawak,Caribbean Tonguefish
+8858020114,Symphurus nebulosus,Freckled Tonguefish
+8858020115,Symphurus pelicanus,Longtail Tonguefish
+8858020121,Symphurus stigmosus,Blotchfin Tonguefish
+8858030100,Trinectes spp.,.
+8858030101,Trinectes maculatus,Hogchoker
+8858030102,Trinectes inscriptus,Scrawled Sole
+8858030200,Achirus spp.,.
+8858030202,Achirus lineatus,Lined Sole
+8858030300,Gymnachirus spp.,.
+8858030301,Gymnachirus melas,Naked Sole
+8858030303,Gymnachirus texae,Fringed Sole
+8860010100,Hollardia spp.,.
+8860010101,Hollardia hollardi,Reticulate Spikefish
+8860010102,Hollardia meadi,Spotted Spikefish
+8860010300,Parahollardia spp.,.
+8860010301,Parahollardia lineata,Jambeau
+8860020000,Balistidae spp.,Triggerfishes
+8860020100,Aluterus spp.,.
+8860020101,Aluterus schoepfii,Orange Filefish
+8860020102,Aluterus heudelotii,Dotterel Filefish
+8860020103,Aluterus monoceros,Unicorn Filefish
+8860020104,Aluterus scriptus,Scrawled Filefish
+8860020200,Balistes spp.,.
+8860020201,Balistes capriscus,Gray Triggerfish
+8860020202,Balistes vetula,Queen Triggerfish
+8860020300,Stephanolepis spp.,Filefish
+8860020400,Cantherhines spp.,.
+8860020401,Cantherhines macrocerus,Whitespotted Filefish
+8860020402,Cantherhines pullus,Orangespotted Filefish
+8860020500,Canthidermis spp.,.
+8860020501,Canthidermis maculata,Rough Triggerfish
+8860020502,Canthidermis sufflamen,Ocean Triggerfish
+8860020600,Melichthys spp.,.
+8860020601,Melichthys niger,Black Durgon
+8860020700,Monacanthus spp.,.
+8860020701,Monacanthus ciliatus,Fringed Filefish
+8860020702,Monacanthus tuckeri,Slender Filefish
+8860020703,Stephanolepis hispidus,Planehead Filefish
+8860020704,Stephanolepis setifer,Pygmy Filefish
+8860020800,Xanthichthys spp.,.
+8860020801,Xanthichthys ringens,Sargassum Triggerfish
+8860030000,Ostraciidae spp.,Boxfishes
+8860030100,Lactophrys spp.,Trunkfishes
+8860030101,Lactophrys trigonus,Trunkfish
+8860030102,Lactophrys bicaudalis,Spotted Trunkfish
+8860030103,Lactophrys triqueter,Smooth Trunkfish
+8860030200,Acanthostracion spp.,Cowfish
+8860030201,Acanthostracion quadricornis,Scrawled Cowfish
+8860030202,Acanthostracion polygonius,Honeycomb Cowfish
+8860040000,Monacanthidae spp.,Filefishes
+8860050000,Triacanthodidae spp.,Spikefishes
+8861010000,Tetraodontidae spp.,Puffers
+8861010100,Lagocephalus spp.,.
+8861010101,Lagocephalus laevigatus,Smooth Puffer
+8861010200,Sphoeroides spp.,.
+8861010201,Sphoeroides maculatus,Northern Puffer
+8861010202,Sphoeroides testudineus,Checkered Puffer
+8861010205,Sphoeroides dorsalis,Marbled Puffer
+8861010208,Sphoeroides nephelus,Southern Puffer
+8861010209,Sphoeroides pachygaster,Blunthead Puffer
+8861010210,Sphoeroides parvus,Least Puffer
+8861010211,Sphoeroides spengleri,Bandtail Puffer
+8861010400,Canthigaster spp.,.
+8861010401,Canthigaster rostrata,Sharpnose Puffer
+8861010419,Canthigaster jamestyleri,Goldface Toby
+8861030000,Diodontidae spp.,Porcupinefish or Burrfish
+8861030100,Chilomycterus spp.,.
+8861030101,Chilomycterus schoepfii,Striped Burrfish
+8861030102,Chilomycterus antennatus,Bridled Burrfish
+8861030103,Chilomycterus antillarum,Web Burrfish
+8861030104,Chilomycterus reticulatus,Spotfin Burrfish
+8861030200,Diodon spp.,.
+8861030201,Diodon hystrix,Porcupinefish
+8861030202,Diodon holocanthus,Balloonfish
+8861040000,Molidae spp.,Molas
+8861040100,Mola spp.,Ocean Sunfish
+8861040101,Mola mola,Ocean Sunfish
+8861040102,Mola lanceolata,Sharptail Mola
+9002000000,Testudines spp.,Turtles
+9002010000,Chelydridae spp.,Snapping Turtles
+9002010100,Chelydra spp.,Snapping Turtles
+9002010101,Chelydra serpentina,Snapping Turtles
+9.00201E+11,Chelydra serpentina serpentina,Common Snapping Turtle
+9.00201E+11,Chelydra serpentina osceola,Florida Snapping Turtle
+9002010200,Macrochelys spp.,Alligator Snapping Turtles
+9002010201,Macrochelys temminckii,Alligator Snapping Turtle
+9002020000,Kinosternidae spp.,Musk Turtles
+9002020100,Sternotherus spp.,Musk Turtles
+9002020101,Sternotherus odoratus,Stinkpot
+9002020104,Sternotherus minor,Loggerhead Musk Turtle
+9002020200,Kinosternon spp.,Mud Turtles
+9.00202E+11,Kinosternon subrubrum steindachneri,Florida Mud Turtle
+9002020202,Kinosternon baurii,Striped Mud Turtle
+9002030000,Emydidae spp.,Sliders
+9002030300,Malaclemys spp.,Terrapin
+9002030301,Malaclemys terrapin,Diamondback Terrapin
+9002030500,Deirochelys spp.,Chicken Turtles
+9002030501,Deirochelys reticularia,Chicken Turtle
+9002030700,Graptemys spp.,Map Turtles
+9002030701,Graptemys barbouri,Barbour's Map Turtle
+9.00203E+11,Graptemys pseudogeographica kohnii,.
+9002030800,Pseudemys spp.,Cooters - Turtles
+9002030802,Pseudemys suwanniensis,Suwannee Cooter
+9002030803,Pseudemys peninsularis,Peninsula Cooter
+9002030804,Pseudemys nelsoni,Florida Redbelly Turtle
+9002030900,Trachemys spp.,Sliders
+9.00203E+11,Trachemys scripta scripta,Yellow Bellied Turtle
+9.00203E+11,Trachemys scripta elegans,Red-eared Turtle
+9002040000,Cheloniidae spp.,Sea Turtles
+9002040100,Caretta spp.,Loggerhead Sea Turtles
+9002040101,Caretta caretta,Loggerhead Sea Turtle
+9002040200,Chelonia spp.,Green Sea Turtles
+9002040201,Chelonia mydas,Green Sea Turtle
+9002040300,Eretmochelys spp.,Hawksbill Sea Turtles
+9002040301,Eretmochelys imbricata,Hawksbill Sea Turtle
+9002040400,Lepidochelys spp.,Ridley Sea Turtles
+9002040401,Lepidochelys kempii,Kemps Ridley Sea Turtle
+9002040402,Lepidochelys olivacea,Olive Ridley Sea Turtle
+9002050000,Dermochelyidae spp.,Leatherback Sea Turtles
+9002050100,Dermochelys spp.,Leatherback Sea Turtles
+9002050101,Dermochelys coriacea,Leatherback Sea Turtle
+9002060000,Trionychidae spp.,Softshell Turtles
+9002060200,Apalone spp.,Softshell Turtles
+9002060201,Apalone ferox,Florida Softshell
+9002060203,Apalone spinifera,Spiny Softshell
+9995000000,Species mix - small (video only),Species mix - small (video only)
+9996000000,Species mix - medium (video only),Species mix - medium (video only)
+9997000000,Species mix - large (video only),Species mix - large (video only)
+9998000000,No fish,.
+9999000000,Unidentified species,.
